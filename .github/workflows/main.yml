@@ -1,8 +1,8 @@
 name: CI -> Deploy to My website
 on:
   schedule:
-    - cron: '* * * * *'
-      branches: [ master, Development ]
+    - cron: '0/10 * * * *'
+      # branches: [ master ]
 jobs:
   build:
     runs-on: ubuntu-latest
