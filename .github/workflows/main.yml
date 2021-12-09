@@ -15,5 +15,6 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local_dir: "/public_html/mias-sandwich"
+          local_dir: "./public_html"
+          remote_dir: "/public_html/mias-sandwich"
           delete: "false"
