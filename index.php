@@ -9,6 +9,7 @@
             include('top_bar.php')
         ?>
         <!-- navigation bar -->
+        <h1>boogidy boys, it worked</h1>
         <!-- getting started page -->
         <!-- footer -->
     </body>
