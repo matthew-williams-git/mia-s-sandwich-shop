@@ -24,25 +24,15 @@
 
     <!-- developer mode, slightly right of main title -->
     <div class="dev_mode">
-        <div class="toggle">
-            <img src="On Off Icon.png" alt="Developer mode on">
-        </div>
-        <div class="text">
-            <p>Developer Mode</p>
-        </div>
+        <img src="On Off Icon.png" alt="Developer mode on">
+        <p>Developer Mode</p>
     </div>
 
     <!-- account -->
     <div class="account">
-        <div class="account_icon">
-            <img src="User Icon.png" alt="Account">
-        </div>
-        <div class ="text">
-            <p>Nick Bosley</p>
-        </div>
-        <div class="dropdown_icon">
-            <img src="DropDown Icon.png" alt="Drop down">
-        </div>
+        <img src="User Icon.png" alt="Account">
+        <p>Nick Bosley</p>
+        <img src="DropDown Icon.png" alt="Drop down">
     </div>
 
     <!-- help button, right hand side -->
