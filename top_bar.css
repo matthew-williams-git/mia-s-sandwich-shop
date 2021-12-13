@@ -3,7 +3,11 @@
     background-color: #404040;
 }
 
-.search_bar {
+/* search bar group */
+.search_icon {
+    float: left;
+}
+.search_text {
     color: #858585;
     float: left;
 }
@@ -12,10 +16,7 @@
     float: left;
 }
 
-.text {
-    float: left;
-}
-
+/* center title section */
 .mias_ss{
     font-size: 30px;
     color: #ffffff;
@@ -28,9 +29,23 @@
     color: #858585;
 }
 
+.dev_mode_text {
+    float: left;
+    color: #858585;
+}
+
+/* right menu section */
+
 .account {
     float: right;
+}
+.account_text {
+    float: right;
     color: #858585;
+}
+
+.dropdown_icon {
+    float: right;
 }
 
 .help_btn {
