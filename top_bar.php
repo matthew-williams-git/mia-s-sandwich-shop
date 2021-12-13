@@ -1,7 +1,6 @@
-<html>
-    <head>
-        <link rel="stylesheet" href="top_bar.css">
-    </head>
+<head>
+    <link rel="stylesheet" href="top_bar.css">
+</head>
 
 <body>
     <!-- search bar, top left -->
@@ -43,5 +42,3 @@
     <div class="help_btn">
         <p>Help</p>
     </div>
-</body>
-</html>
