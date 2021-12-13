@@ -9,6 +9,9 @@
             include('top_bar.php')
         ?>
         <!-- ribbon bar --> 
+        <?php
+            include('ribbon.php')
+        ?>
         <!-- getting started page -->
         <!-- footer -->
     </body>
