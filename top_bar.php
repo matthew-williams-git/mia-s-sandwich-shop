@@ -9,7 +9,9 @@
         <div class="search_icon">
             <img src="Search Icon.png" alt="Search">
         </div>
-        <p>Search all items</p>
+        <div class="text">
+            <p>Search all items</p>
+        </div>
         <div class="plus_icon">
             <img src="Plus Icon.png" alt="Add more">
         </div>
@@ -25,7 +27,9 @@
         <div class="toggle">
             <img src="On Off Icon.png" alt="Developer mode on">
         </div>
-        <p>Developer Mode</p>
+        <div class="text">
+            <p>Developer Mode</p>
+        </div>
     </div>
 
     <!-- account -->
@@ -33,7 +37,9 @@
         <div class="account_icon">
             <img src="User Icon.png" alt="Account">
         </div>
-        <p>Nick Bosley</p>
+        <div class ="text">
+            <p>Nick Bosley</p>
+        </div>
         <div class="dropdown_icon">
             <img src="DropDown Icon.png" alt="Drop down">
         </div>
@@ -41,6 +47,8 @@
 
     <!-- help button, right hand side -->
     <div class="help_btn">
-        <p>Help</p>
+        <div class="text">
+            <p>Help</p>
+        </div>
     </div>
 </div>
