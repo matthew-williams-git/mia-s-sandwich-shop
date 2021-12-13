@@ -1,3 +1,7 @@
+.all {
+    height: 100px;
+}
+
 .search_bar {
     color: #858585;
     float: left;
