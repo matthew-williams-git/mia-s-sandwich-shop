@@ -3,6 +3,7 @@
         <link rel="stylesheet" href="top_bar.css">
     </head>
 
+<body>
     <!-- search bar, top left -->
     <div class="search_bar">
         <div class="search_icon">
@@ -42,4 +43,5 @@
     <div class="help_btn">
         <p>Help</p>
     </div>
+</body>
 </html>
