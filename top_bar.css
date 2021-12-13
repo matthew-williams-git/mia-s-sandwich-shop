@@ -6,14 +6,20 @@
 /* search bar group */
 .search_icon {
     float: left;
+    padding-left: 15px;
+    padding-top: 15px;
 }
 .search_text {
     color: #858585;
     float: left;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .plus_icon {
     float: left;
+    padding-top: 15px;
 }
 
 /* center title section */
@@ -22,16 +28,18 @@
     color: #ffffff;
     float: left;
     padding-left: 400px;
+    padding-right: 50px;
 }
 
 .dev_mode {
     float: left;
-    color: #858585;
+    padding-top: 15px;
 }
 
 .dev_mode_text {
     float: left;
     color: #858585;
+    padding-top: 15px;
 }
 
 /* right menu section */
