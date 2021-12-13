@@ -1,5 +1,5 @@
 .all {
-    height: 100px;
+    height: 75px;
     background-color: #404040;
 }
 
@@ -18,10 +18,10 @@
 
 /* center title section */
 .mias_ss{
-    font-size: 30px;
+    font-size: 20px;
     color: #ffffff;
     float: left;
-    padding-left: 200px;
+    padding-left: 400px;
 }
 
 .dev_mode {
