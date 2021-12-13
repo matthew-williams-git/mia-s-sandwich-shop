@@ -1,4 +1,4 @@
-name: CI -> Deploy to My website
+name: anything will do
 on:
   schedule:
     - cron: '5/10 * * * *'
