@@ -28,20 +28,23 @@
         <p>Developer Mode</p>
     </div>
 
+    <!-- help button, right hand side -->
+    <div class="help_btn">
+        <p>Help</p>
+    </div> 
+
     <!-- account -->
-    <div class="account">
-        <img src="User Icon.png" alt="Account">        
+ 
+
+    <div class="dropdown_icon">
+        <img src="DropDown Icon.png" alt="Drop down">
     </div>
     <div class="account_text">
         <p>Nick Bosley</p>
     </div>
-    <div class="dropdown_icon">
-        <img src="DropDown Icon.png" alt="Drop down">
+    <div class="account">
+        <img src="User Icon.png" alt="Account">        
     </div>
 
 
-    <!-- help button, right hand side -->
-    <div class="help_btn">
-        <p>Help</p>
-    </div>
 </div>

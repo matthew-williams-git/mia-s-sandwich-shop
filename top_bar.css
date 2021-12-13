@@ -12,7 +12,7 @@
 .search_text {
     color: #858585;
     float: left;
-    padding-top: 15px;
+    padding-top: 7px;
     padding-left: 15px;
     padding-right: 15px;
     margin: 0px;
@@ -20,7 +20,7 @@
 
 .plus_icon {
     float: left;
-    padding-top: 15px;
+    padding-top: 21px;
 }
 
 /* center title section */
@@ -34,13 +34,14 @@
 
 .dev_mode {
     float: left;
-    padding-top: 15px;
+    padding-top: 19px;
+    padding-right: 5px;
 }
 
 .dev_mode_text {
     float: left;
     color: #858585;
-    padding-top: 15px;
+    padding-top: 7px;
     margin: 0px;
 }
 
@@ -48,17 +49,25 @@
 
 .account {
     float: right;
+    padding-top: 25px;
+    padding-right: 10px;
 }
 .account_text {
     float: right;
     color: #858585;
+    padding-top: 11px;
 }
 
 .dropdown_icon {
     float: right;
+    padding-top: 31px;
+    padding-left: 10px;
 }
 
 .help_btn {
     float: right;
+    padding-top: 11px;
+    padding-left: 10px;
+    padding-right: 15px;
     color: #858585;
 }
