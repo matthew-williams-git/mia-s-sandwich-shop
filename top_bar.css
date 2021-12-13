@@ -15,12 +15,15 @@ html {
 
 .dev_mode {
     float: left;
+    color: #858585;
 }
 
 .account {
     float: right;
+    color: #858585;
 }
 
 .help_btn {
     float: right;
+    color: #858585;
 }
