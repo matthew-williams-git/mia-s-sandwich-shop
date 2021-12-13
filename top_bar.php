@@ -25,6 +25,8 @@
     <!-- developer mode, slightly right of main title -->
     <div class="dev_mode">
         <img src="On Off Icon.png" alt="Developer mode on">
+    </div>
+    <div class="dev_mode_text">
         <p>Developer Mode</p>
     </div>
 
