@@ -2,11 +2,25 @@ html {
     background-color: #404040;
 }
 
+.search_bar {
+    color: #858585;
+    float: left;
+}
+
 .mias_ss{
     font-size: 30px;
     color: #ffffff;
+    float: left;
 }
 
-.search_bar {
-    color: #858585;
+.dev_mode {
+    float: left;
+}
+
+.account {
+    float: right;
+}
+
+.help_btn {
+    float: right;
 }
