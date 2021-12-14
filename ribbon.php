@@ -26,3 +26,4 @@
         <img src="POS LOgo.png" alt="Point of sales" style="width:50px;height:50px">
         <p>POS</p>
     </div>
+    
