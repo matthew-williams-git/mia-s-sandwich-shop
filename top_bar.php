@@ -3,7 +3,7 @@
 </head>
 
 <body>
-<div class="all">
+<div class="all_top">
     <!-- search bar, top left -->
     <div class="search_icon">
         <img src="Search Icon.png" alt="Search">

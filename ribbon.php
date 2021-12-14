@@ -2,6 +2,7 @@
     <link rel="stylesheet" href="ribbon.css">
 </head>
 <body>
+<div class="all_ribbon">
     <div class="customer_tab">
         <img src="User Icons.png" alt="Customers" style="width:50px;height:50px">
         <p>Customers</p>
@@ -56,3 +57,4 @@
         <img src="More Logo.png" alt="More" style="width:50px;height:50px">
         <p>More</p>
     </div>
+</div>
