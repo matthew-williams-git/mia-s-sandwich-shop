@@ -2,4 +2,6 @@
     <link ref="stylesheet" href="welcome_page.css">
 </head>
 <body>
-    <h1>Ay-up</h1>
+    <div class="heading">
+        <h1>Ay-up</h1>
+    </div>
