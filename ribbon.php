@@ -59,6 +59,6 @@
     </div>
 
     <div class="mia-s-sw_logo">
-        <img src="Mask Group.png" alt="Mia's Sandwich shop">
+        <img src="Mask Group.png" alt="Mia's Sandwich shop" style="height:100px;">
     </div>
 </div>
