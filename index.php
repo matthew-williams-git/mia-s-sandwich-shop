@@ -13,6 +13,9 @@
             include('ribbon.php')
         ?>
         <!-- getting started page -->
+        <?php
+            include('welcome_page.php')
+        ?>
         <!-- footer -->
     </body>
 </html>

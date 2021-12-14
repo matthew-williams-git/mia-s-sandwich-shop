@@ -34,8 +34,6 @@
     </div> 
 
     <!-- account -->
- 
-
     <div class="dropdown_icon">
         <img src="DropDown Icon.png" alt="Drop down">
     </div>
