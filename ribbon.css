@@ -63,3 +63,75 @@ html {
 .pos_tab p {
     text-align: center;
 }
+
+/* calender tab ...... */
+.calender_tab {
+    float: left;
+    width: 100px;
+}
+.calender_tab img {
+    transform: translate(50%, 20%);
+}
+.calender_tab p {
+    text-align: center;
+}
+
+/* reports tab ....... */
+.reports_tab {
+    float: left;
+    width: 100px;
+}
+.reports_tab img {
+    transform: translate(50%, 20%);
+}
+.reports_tab p {
+    text-align: center;
+}
+
+/* delivery tab ...... */
+.delivery_tab {
+    float: left;
+    width: 100px;
+}
+.delivery_tab img {
+    transform: translate(50%, 20%);
+}
+.delivery_tab p {
+    text-align: center;
+}
+
+/* product tab yada yada */
+.product_tab {
+    float: left;
+    width: 100px;
+}
+.product_tab img {
+    transform: translate(50%, 20%);
+}
+.product_tab p {
+    text-align: center;
+}
+
+/* admin tab doom de yada boom de yada */
+.admin_tab {
+    float: left;
+    width: 100px;
+}
+.admin_tab img {
+    transform: translate(50%, 20%);
+}
+.admin_tab p {
+    text-align: center;
+}
+
+/* more tab boom de yada boom*/
+.more_tab {
+    float: left;
+    width: 100px;
+}
+.more_tab img {
+    transform: translate(50%, 20%);
+}
+.more_tab p {
+    text-align: center;
+}
