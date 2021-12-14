@@ -1,7 +1,8 @@
 .all_ribbon {
     background-color: #676565;
-    height: 50px;
+    height: 100px;
     float: left;
+    width: 100%;
 }
 
 /* customer tab css, image centering and text aligning */
