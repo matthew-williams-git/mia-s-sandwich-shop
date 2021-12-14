@@ -57,4 +57,8 @@
         <img src="More Logo.png" alt="More" style="width:50px;height:50px">
         <p>More</p>
     </div>
+
+    <div class="mia-s-sw_logo">
+        <img src="Mask Group.png" alt="Mia's Sandwich shop">
+    </div>
 </div>
