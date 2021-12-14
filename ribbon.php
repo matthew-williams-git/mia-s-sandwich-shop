@@ -16,3 +16,13 @@
         <img src="Invoice Logo.png" alt="Invoices" style="width:50px;height:50px">
         <p>Invoices</p>
     </div>
+
+    <div class="inventory_tab">
+        <img src="Inventory Logo.png" alt="Inventory" style="width:50px;height:50px">
+        <p>Inventory</p>
+    </div>
+
+    <div class="pos_tab">
+        <img src="POS LOgo.png" alt="Point of sales" style="width:50px;height:50px">
+        <p>POS</p>
+    </div>
