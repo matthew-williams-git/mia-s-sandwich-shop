@@ -1,8 +1,11 @@
-body {
-    background-color: red;
+.customer_tab {
+    float: left;
 }
 
-.heading {
-    color: purple;
-    font-size: 60px;
+.order_tab {
+    float: left;
+}
+
+.invoice_tab {
+    float: left;
 }
