@@ -39,6 +39,7 @@
 }
 
 .dev_mode_text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     float: left;
     color: #858585;
     padding-top: 7px;
