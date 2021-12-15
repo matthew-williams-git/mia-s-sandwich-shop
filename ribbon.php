@@ -3,7 +3,7 @@
 </head>
 <body>
 <div class="all_ribbon">
-    <a href="#customer">
+    <a href="im-imaginative.php">
         <div class="customer_tab">
             <img src="User Icons.png" alt="Customers" style="width:50px;height:50px">
             <p>Customers</p>
@@ -80,7 +80,9 @@
     </div>
     </a>
 
-    <div class="mia-s-sw_logo">
-        <img src="Mask Group.png" alt="Mia's Sandwich shop" style="height:100px;">
-    </div>
+    <a href="#awhimboway">
+        <div class="mia-s-sw_logo">
+            <img src="Mask Group.png" alt="Mia's Sandwich shop" style="height:100px;">
+        </div>
+    </a>
 </div>

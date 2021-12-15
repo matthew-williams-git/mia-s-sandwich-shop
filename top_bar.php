@@ -16,9 +16,11 @@
     </div>
     
     <!-- center brand name -->
-    <div class="mias_ss">
-        <p>Mia's Sandwich Shop</p>
-    </div>
+    <a href="#home">
+        <div class="mias_ss">
+            <p>Mia's Sandwich Shop</p>
+        </div>
+    </a>
 
     <!-- developer mode, slightly right of main title -->
     <div class="dev_mode">
