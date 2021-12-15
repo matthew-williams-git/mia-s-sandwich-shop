@@ -1,3 +1,11 @@
+<?php
+    include('top_bar.php');
+    include('ribbon.php');
+?>
+<head>
+    <link rel="stylesheet" href="universal.css">  
+</head>
+
 <html lang="en">
           <head>
             <meta charset="utf-8">
