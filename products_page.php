@@ -11,3 +11,11 @@
         }
     </style>
 </head>
+<body>
+    <a href="#works">
+        <div class="new_customer_btn">
+            <img src="title_bar_images/Plus Icon.png">
+            <p>New Customer</p>
+        </div>
+    </a>
+</body>

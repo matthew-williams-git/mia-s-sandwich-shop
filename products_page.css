@@ -1,0 +1,12 @@
+.new_customer_btn {
+    width: 160px;
+    height: 30;
+    color: #4bb748;
+}
+.new_customer_btn img {
+    height: 20px;
+}
+.new_customer_btn p {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
