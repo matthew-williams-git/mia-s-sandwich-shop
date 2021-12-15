@@ -16,7 +16,7 @@
     </div>
     
     <!-- center brand name -->
-    <a href="#home">
+    <a href="index.php">
         <div class="mias_ss">
             <p>Mia's Sandwich Shop</p>
         </div>
