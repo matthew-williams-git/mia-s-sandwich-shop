@@ -66,7 +66,7 @@
     </div>
     </a>
 
-    <a href="admin">
+    <a href="#admin">
     <div class="admin_tab">
         <img src="Admin Logo.png" alt="Administration" style="width:50px;height:50px">
         <p>Admin</p>
