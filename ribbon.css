@@ -3,6 +3,7 @@
     height: 101px;
     float: left;
     width: 100%;
+    border: none;
 }
 .all_ribbon p {
     font-family: Arial, Helvetica, sans-serif;
