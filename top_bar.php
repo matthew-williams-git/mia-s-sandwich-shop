@@ -6,13 +6,13 @@
 <div class="all_top">
     <!-- search bar, top left -->
     <div class="search_icon">
-        <img src="Search Icon.png" alt="Search">
+        <img src="title_bar_images/Search Icon.png" alt="Search">
     </div>  
     <div class="search_text">
         <p>Search all items</p>
     </div>
     <div class="plus_icon">
-        <img src="Plus Icon.png" alt="Add more">
+        <img src="title_bar_images/Plus Icon.png" alt="Add more">
     </div>
     
     <!-- center brand name -->
@@ -24,7 +24,7 @@
 
     <!-- developer mode, slightly right of main title -->
     <div class="dev_mode">
-        <img src="On Off Icon.png" alt="Developer mode on">
+        <img src="title_bar_images/On Off Icon.png" alt="Developer mode on">
     </div>
     <div class="dev_mode_text">
         <p>Developer Mode</p>
@@ -37,13 +37,13 @@
 
     <!-- account -->
     <div class="dropdown_icon">
-        <img src="DropDown Icon.png" alt="Drop down">
+        <img src="title_bar_images/DropDown Icon.png" alt="Drop down">
     </div>
     <div class="account_text">
         <p>Nick Bosley</p>
     </div>
     <div class="account">
-        <img src="User Icon.png" alt="Account">        
+        <img src="title_bar_images/User Icon.png" alt="Account">        
     </div>
 
 
