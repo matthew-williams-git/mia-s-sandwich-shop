@@ -3,10 +3,10 @@
 </head>
 <body>
 <div class="all_ribbon">
-    <div class="customer_tab">
+    <button class="customer_tab">
         <img src="User Icons.png" alt="Customers" style="width:50px;height:50px">
         <p>Customers</p>
-    </div>
+</button>
 
     <div class="order_tab">
         <img src="Ticket Logo.png" alt="Orders" style="width:50px;height:50px">
