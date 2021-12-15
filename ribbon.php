@@ -10,7 +10,7 @@
         </div>
     </a>
 
-    <a href="order_page.php">
+    <a href="orders_page.php">
         <div class="order_tab">
             <img src="ribbon_images/Ticket Logo.png" alt="Orders" style="width:50px;height:50px">
             <p>Orders</p>
