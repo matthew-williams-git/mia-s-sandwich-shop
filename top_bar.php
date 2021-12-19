@@ -41,10 +41,11 @@
     </div>
 
  <!-- Drowdown Menu -->
-
-<button type="submit" style="border: 0; background: transparent">
- <img src="title_bar_images/DropDown Icon.png" alt="submit" />
-</button>
+<div class="dropdown_icon">
+    <button type="submit" style="border: 0; background: transparent">
+        <img src="title_bar_images/DropDown Icon.png" alt="submit" />
+    </button>
+</div>
 
     <div class="account_text">
         <p>Nick Bosley</p>
