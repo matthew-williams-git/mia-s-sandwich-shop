@@ -42,9 +42,9 @@
 
  <!-- Drowdown Menu -->
 
- <div class="dropdown_icon">
-  <button class="btn">title_bar_images/DropDown Icon.png</button>
-</div>
+<button type="submit" style="border: 0; background: transparent">
+ <img src="title_bar_images/DropDown Icon.png" alt="submit" />
+</button>
 
     <div class="account_text">
         <p>Nick Bosley</p>
