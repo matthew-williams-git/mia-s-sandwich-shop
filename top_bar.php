@@ -35,15 +35,8 @@
         <p>Help</p>
     </div> 
 
- <!-- Drowdown Menu -->
- <div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div>
+    <!-- Dropdown menu -->
+
 
     <div class="account_text">
         <p>NB</p>
@@ -52,5 +45,8 @@
         <img src="title_bar_images/User Icon.png" alt="Account">        
     </div>
 
+
+<marquee><img src="title_bar_images/User Icon.png" alt="up" align="middle"
+ width="21" height="19">Matt Williams Likes Traktors</marquee>
 
 </div>
