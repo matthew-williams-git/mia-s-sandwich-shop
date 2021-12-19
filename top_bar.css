@@ -63,9 +63,9 @@
 
 div.myButton input {
     background: src="title_bar_images/DropDown Icon.png" no-repeat;
-    background-size: 90px;
-    width: 90px;
-    height: 90px;
+    float: right;
+    padding-top: 31px;
+    padding-left: 10px;
     cursor: pointer;
     border: none;
   }
