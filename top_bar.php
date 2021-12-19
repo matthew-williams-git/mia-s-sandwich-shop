@@ -35,16 +35,9 @@
         <p>Help</p>
     </div> 
 
-    <!-- account -->
-    <div class="dropdown_icon">
-        <img src="title_bar_images/DropDown Icon.png" alt="Drop down">
-    </div>
-
  <!-- Drowdown Menu -->
-<div class="dropdown_icon">
-    <button type="submit" style="border: 0; background: transparent">
-        <img src="title_bar_images/DropDown Icon.png" alt="submit" />
-    </button>
+<div class="myButton">
+  <INPUT type="submit" name="" value="">
 </div>
 
     <div class="account_text">

@@ -61,11 +61,15 @@
     padding-top: 11px;
 }
 
-.dropdown_icon {
-    float: right;
-    padding-top: 31px;
-    padding-left: 10px;
-}
+div.myButton input {
+    background: src="title_bar_images/DropDown Icon.png" no-repeat;
+    background-size: 90px;
+    width: 90px;
+    height: 90px;
+    cursor: pointer;
+    border: none;
+  }
+
 
 .help_btn {
     float: right;
