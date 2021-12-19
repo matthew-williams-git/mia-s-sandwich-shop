@@ -36,13 +36,17 @@
     </div> 
 
  <!-- Drowdown Menu -->
-<div class="myButton">
-  <INPUT type="submit" name="" value="">
-  <img src="title_bar_images/DropDown Icon.png" no-repeat;>
+ <div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
 </div>
 
     <div class="account_text">
-        <p>Nick Bosley</p>
+        <p>NB</p>
     </div>
     <div class="account">
         <img src="title_bar_images/User Icon.png" alt="Account">        
