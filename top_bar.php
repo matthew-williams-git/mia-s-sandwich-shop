@@ -43,8 +43,7 @@
  <!-- Drowdown Menu -->
 
  <div class="dropdown_icon">
-  <img src="title_bar_images/DropDown Icon.png" alt="Drop down">
-  <button class="btn">Button</button>
+  <button class="btn">title_bar_images/DropDown Icon.png</button>
 </div>
 
     <div class="account_text">
