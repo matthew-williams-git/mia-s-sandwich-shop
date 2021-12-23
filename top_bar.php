@@ -2,6 +2,8 @@
     <link rel="stylesheet" href="top_bar.css">
 </head>
 
+<link rel="icon" href="/ribbon_images/favicon.ico">
+
 <body>
 <div class="all_top">
     <!-- search bar, top left -->
