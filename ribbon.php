@@ -3,6 +3,7 @@
 </head>
 <body>
 <div class="all_ribbon">
+    
     <a href="customer_page.php">
         <div class="customer_tab">
             <img src="ribbon_images/User Icons.png" alt="Customers" style="width:50px;height:50px">
