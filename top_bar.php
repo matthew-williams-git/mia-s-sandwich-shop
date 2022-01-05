@@ -48,7 +48,7 @@
     </div>
 
 
-<marquee><img src="title_bar_images/User Icon.png" alt="up" align="middle"
- width="21" height="19">Matt Williams Likes Traktors</marquee>
+<!-- <marquee><img src="title_bar_images/User Icon.png" alt="up" align="middle"
+ width="21" height="19">Matt Williams Likes Traktors</marquee> -->
 
 </div>
