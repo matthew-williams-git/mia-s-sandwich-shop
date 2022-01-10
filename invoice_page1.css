@@ -35,6 +35,11 @@ table {
     float: left;
 }
 
+.main_body_table table {
+    max-height: 500px;
+    margin-left: 172px;
+}
+
 tr {
     height: 30px;
 }
@@ -48,5 +53,15 @@ td:nth-child(even) {
 }
 
 .outbound_invoices table {
-    margin-left: 172
+    margin-left: 172px;
+}
+
+.main_body_table h3 {
+    float: left;
+    margin-left: 650px
+}
+
+.outbound_invoices h3 {
+    float: left;
+    margin-left: 823px;
 }
