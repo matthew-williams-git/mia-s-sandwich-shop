@@ -31,7 +31,13 @@
 }
 .main_body_table {
     height: 540px;
-    width: 1400px
+    width: 1400px;
+    float: left;
+}
+
+table {
+    width: 1400px;
+    height: 540px;
 }
 
 td:nth-child(odd) {

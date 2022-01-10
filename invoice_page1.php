@@ -30,5 +30,12 @@
                 <th>Price</th>
                 <th>Description of Invoice</th>
             </tr>
+            <td>
+                <td>Business 1</td>
+                <td>1 Lollypop lane, candy town</td>
+                <td>too expensive</td>
+                <td>price of building the website and database</td>
+            </tb>
         </table>
+    </div>
 </body>
