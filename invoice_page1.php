@@ -35,7 +35,7 @@
                 <td>1 Lollypop lane, candy town</td>
                 <td>too expensive</td>
                 <td>price of building the website and database</td>
-            </tb>
+            </td>
         </table>
     </div>
 </body>
