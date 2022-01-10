@@ -17,5 +17,6 @@
             include('welcome_page.php')
         ?>
         <!-- footer -->
+        <!-- nothing -->
     </body>
 </html>
