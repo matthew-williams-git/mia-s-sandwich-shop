@@ -11,3 +11,14 @@
         }
     </style>
 </head>
+<body>
+    <div class="Page-head">
+        <h1>Overview</h1>
+    </div>
+    <a href="#works">
+        <div class="new-invoice-btn">
+            <img src="title_bar_images/Plus Icon.png">
+            <p>New invoice</p>
+        </div>
+    </a>
+</body>

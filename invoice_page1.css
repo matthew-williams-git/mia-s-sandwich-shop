@@ -1,0 +1,25 @@
+.Page-head {
+    float: left;
+}
+
+.new-invoice-btn {
+    width: 160px;
+    height: 30px;
+    background-color: #2CD632; opacity: 62%;
+    float: right;
+}
+
+.new-invoice-btn img {
+    height: 20px;
+    float: left;
+    vertical-align: middle;
+}
+
+.new-invoice-btn p {
+    color: #404040;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin: 0px;
+    padding-left: 10px;
+    vertical-align: middle;
+}
