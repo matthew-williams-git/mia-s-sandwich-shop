@@ -54,6 +54,17 @@
 <div class="e111_1453"></div>
 <span  class="e111_1452">Welcome!</span>
 
+/* What's New? */
+
+<div id=e111_1497>
+  <div id="e111_1498"></div>
+  <div id="e111_1499"></div>
+  <div id="e111_1500"></div>
+  <div id="e111_1501"></div>
+  <div id="e111_1502"></div>
+  <div id="e111_1503"></div><span  id="e111_1504">What’s New?</span><span  id="e111_1505">Wed 09-12-21 05:52 AM</span><span  id="e111_1506">Developer Update</span><span  id="e111_1507">New Order #5692</span><span  id="e111_1508">New Order #5391</span><span  id="e111_1509">Wed 09-12-21 05:52 AM</span><span  id="e111_1510">Wed 09-12-21 05:52 AM</span>
+</div>
+
 /* Get Started */
 
 <div class=e111_1455>
