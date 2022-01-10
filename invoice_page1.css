@@ -58,10 +58,12 @@ td:nth-child(even) {
 
 .main_body_table h3 {
     float: left;
-    margin-left: 650px
+    margin: auto 15px;
+    padding: 0px;
 }
 
 .outbound_invoices h3 {
     float: left;
-    margin-left: 823px;
+    margin: auto 15px;
+    padding: 0px;
 }

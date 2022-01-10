@@ -26,10 +26,10 @@
         <h3>To recieve</h3>
         <table>
             <tr>
-                <th>Company</th>
-                <th>Address</th>
-                <th>Price</th>
-                <th>Description of Invoice</th>
+                <th style="width: 180px;">Company</th>
+                <th style="width: 430px;">Address</th>
+                <th style="width: 215px;">Price</th>
+                <th style="width: 657px;">Description of Invoice</th>
             </tr>
             <tr>
                 <td>Business 1</td>
@@ -37,17 +37,17 @@
                 <td>too expensive</td>
                 <td>price of building the website and database</td>
             </tr>
-        </table>
+        </table>    
     </div>
 
     <div class="outbound_invoices">
-        <h3>To pay out</h3>
+    <h3>To pay out</h3>
         <table>
             <tr>
-                <th>Company</th>
-                <th>Address</th>
-                <th>Price</th>
-                <th>Description of invoice</th>
+                <th style="width: 180px;">Company</th>
+                <th style="width: 430px;">Address</th>
+                <th style="width: 215px;">Price</th>
+                <th style="width: 657px;">Description of invoice</th>
             </tr>
             <tr>
                 <td>Business 2</td>
@@ -55,6 +55,6 @@
                 <td>Rather dear</td>
                 <td>Energy bills</td>
             </tr>
-        </table>
+        </table>    
     </div>
 </body>
