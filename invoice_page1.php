@@ -21,4 +21,14 @@
             <p>New invoice</p>
         </div>
     </a>
+
+    <div class="main_body_table">
+        <table>
+            <tr>
+                <th>Company</th>
+                <th>Address</th>
+                <th>Price</th>
+                <th>Description of Invoice</th>
+            </tr>
+        </table>
 </body>

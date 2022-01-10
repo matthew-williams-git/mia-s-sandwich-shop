@@ -29,3 +29,15 @@
     padding-top: 5px;
     vertical-align: middle;
 }
+.main_body_table {
+    height: 540px;
+    width: 1400px
+}
+
+td:nth-child(odd) {
+    background-color: #cccccc;
+}
+
+td:nth-child(even) {
+    background-color: #d7d5d5;
+}
