@@ -1,6 +1,6 @@
 /*Reports CSS*/
 
-.111_1511 { 
+.e111_1511 { 
 	overflow:hidden;
 }
 .e111_1511 { 
@@ -20,7 +20,7 @@
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
 }
-.111_1512 { 
+.e111_1512 { 
 	border:1px solid rgba(0, 0, 0, 1);
 }
 .e111_1513 { 
@@ -107,5 +107,6 @@
 	font-family:Roboto Condensed;
 	text-align:center;
 	font-size:36px;
+    
 	letter-spacing:0;
 }
