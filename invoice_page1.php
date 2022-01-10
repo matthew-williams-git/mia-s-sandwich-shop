@@ -42,10 +42,10 @@
     <div class="outbound_invoices">
         <table>
             <tr>
-                <th>Company being paid</th>
-                <th>Address</th>
-                <th>Price</th>
-                <th>Description of invoice</th>
+                <th style="169.7px;">Company being paid</th>
+                <th style="438.95px;">Address</th>
+                <th style="216.033px;">Price</th>
+                <th style="665.317px;">Description of invoice</th>
             </tr>
             <tr>
                 <td>Business 2</td>

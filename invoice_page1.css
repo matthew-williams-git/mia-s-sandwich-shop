@@ -46,3 +46,7 @@ td:nth-child(odd) {
 td:nth-child(even) {
     background-color: #d7d5d5;
 }
+
+.outbound_invoices table {
+    margin-left: 172
+}
