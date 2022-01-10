@@ -38,4 +38,21 @@
             </tr>
         </table>
     </div>
+
+    <div class="outbound_invoices">
+        <table>
+            <tr>
+                <th>Company being paid</th>
+                <th>Address</th>
+                <th>Price</th>
+                <th>Description of invoice</th>
+            </tr>
+            <tr>
+                <td>Business 2</td>
+                <td>2 Lollypop lane, candy town</td>
+                <td>Rather dear</td>
+                <td>Energy bills</td>
+            </tr>
+        </table>
+    </div>
 </body>
