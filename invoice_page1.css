@@ -9,8 +9,8 @@
     width: 160px;
     height: 30px;
     background-color: #2CD632; opacity: 62%;
-    float: right;
-    margin-right: 100px;
+    float: left;
+    margin-left: 1500px;
     margin-top: 14px;
 }
 
@@ -29,15 +29,14 @@
     padding-top: 5px;
     vertical-align: middle;
 }
-.main_body_table {
-    height: 540px;
-    width: 1400px;
+
+table {
+    width: 1500px;
     float: left;
 }
 
-table {
-    width: 1400px;
-    height: 540px;
+tr {
+    height: 30px;
 }
 
 td:nth-child(odd) {
