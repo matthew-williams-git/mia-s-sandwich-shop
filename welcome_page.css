@@ -1,20 +1,111 @@
 /*Reports CSS*/
 
-.193_12 { 
+.111_1511 { 
 	overflow:hidden;
 }
-.e193_12 { 
+.e111_1511 { 
 	width:650px;
 	height:165px;
 	position:absolute;
 }
-.193_13 { 
-	border:4px solid rgba(255, 0, 0, 1);
-}
-.e193_13 { 
+.e111_1512 { 
+	background-color:rgba(255, 255, 255, 1);
 	width:650px;
 	height:165px;
 	position:absolute;
 	left:0px;
 	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.111_1512 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e111_1513 { 
+	color:rgba(153.00000607967377, 153.00000607967377, 153.00000607967377, 1);
+	width:170px;
+	height:19px;
+	position:absolute;
+	left:35px;
+	top:36px;
+	font-family:Roboto Condensed;
+	text-align:center;
+	font-size:18px;
+	letter-spacing:0;
+}
+.e111_1514 { 
+	color:rgba(121.12500607967377, 190.74000656604767, 255, 1);
+	width:170px;
+	height:19px;
+	position:absolute;
+	left:237px;
+	top:83px;
+	font-family:Roboto Condensed;
+	text-align:center;
+	font-size:18px;
+	letter-spacing:0;
+}
+.e111_1515 { 
+	color:rgba(153.00000607967377, 153.00000607967377, 153.00000607967377, 1);
+	width:176px;
+	height:48px;
+	position:absolute;
+	left:28px;
+	top:73px;
+	font-family:Roboto Condensed;
+	text-align:center;
+	font-size:18px;
+	letter-spacing:0;
+}
+.e111_1516 { 
+	color:rgba(53.1249987334013, 53.1249987334013, 53.1249987334013, 1);
+	width:180px;
+	height:38px;
+	position:absolute;
+	left:237px;
+	top:0px;
+	font-family:Roboto Condensed;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e111_1517 { 
+	color:rgba(153.00000607967377, 153.00000607967377, 153.00000607967377, 1);
+	width:181px;
+	height:20px;
+	position:absolute;
+	left:444px;
+	top:63px;
+	font-family:Roboto Condensed;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e111_1518 { 
+	width:45px;
+	height:45px;
+	position:absolute;
+	left:508px;
+	top:9px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	background-image:url(images/stats_logo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e111_1519 { 
+	color:rgba(153.00000607967377, 153.00000607967377, 153.00000607967377, 1);
+	width:197px;
+	height:32px;
+	position:absolute;
+	left:432px;
+	top:113px;
+	font-family:Roboto Condensed;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
 }
