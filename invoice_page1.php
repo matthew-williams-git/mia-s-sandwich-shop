@@ -48,10 +48,10 @@
                 <th style="665.317px;">Description of invoice</th>
             </tr>
             <tr>
-                <td>Business 2</td>
-                <td>2 Lollypop lane, candy town</td>
-                <td>Rather dear</td>
-                <td>Energy bills</td>
+                <td style="169.7px;">Business 2</td>
+                <td style="438.95px;">2 Lollypop lane, candy town</td>
+                <td style="216.033px;">Rather dear</td>
+                <td style="665.317px;">Energy bills</td>
             </tr>
         </table>
     </div>
