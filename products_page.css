@@ -1,14 +1,19 @@
 .new_customer_btn {
     width: 160px;
-    height: 30;
-    color: #4bb748;
+    height: 30px;
+    background-color: #2CD632; opacity: 62%;
+    float: left;
 }
 .new_customer_btn img {
     height: 20px;
     float: left;
+    vertical-align: middle;
 }
 .new_customer_btn p {
-    color: #ffffff;
+    color: #404040;
     font-family: Arial, Helvetica, sans-serif;
-    float: left;
+    float:left;
+    margin: 0px;
+    padding-left: 10px;
+    vertical-align: middle;
 }
