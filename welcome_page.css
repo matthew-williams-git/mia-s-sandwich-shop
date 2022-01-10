@@ -1,12 +1,12 @@
-#e111_1455 { 
+.e111_1455 { 
 	overflow:hidden;
 }
-#e111_1455 { 
+.e111_1455 { 
 	width:650px;
 	height:550px;
 	position:absolute;
 }
-#e111_1456 { 
+.e111_1456 { 
 	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
 	background-color:rgba(255, 255, 255, 1);
 	width:650px;
@@ -16,10 +16,10 @@
 	top:0px;
 	border-radius:13px;
 }
-#e111_1456 { 
+.e111_1456 { 
 	border:1px solid rgba(0, 0, 0, 1);
 }
-#e111_1457 { 
+.e111_1457 { 
 	color:rgba(53.1249987334013, 53.1249987334013, 53.1249987334013, 1);
 	width:249px;
 	height:52px;
@@ -31,7 +31,7 @@
 	font-size:48px;
 	letter-spacing:0;
 }
-#e111_1458 { 
+.e111_1458 { 
 	background-color:rgba(246.49999290704727, 246.49999290704727, 246.49999290704727, 1);
 	width:65px;
 	height:65px;
@@ -39,7 +39,7 @@
 	left:74px;
 	top:132px;
 }
-#e111_1459 { 
+.e111_1459 { 
 	background-color:rgba(74.5467634499073, 182.74999290704727, 72.33853474259377, 1);
 	width:320px;
 	height:65px;
@@ -51,7 +51,7 @@
 	border-bottom-left-radius:15px;
 	border-bottom-right-radius:15px;
 }
-#e111_1460 { 
+.e111_1460 { 
 	background-color:rgba(75.00000312924385, 183.00000429153442, 72.00000330805779, 1);
 	width:320px;
 	height:65px;
@@ -63,7 +63,7 @@
 	border-bottom-left-radius:15px;
 	border-bottom-right-radius:15px;
 }
-#e111_1461 { 
+.e111_1461 { 
 	background-color:rgba(75.00000312924385, 183.00000429153442, 72.00000330805779, 1);
 	width:320px;
 	height:65px;
@@ -75,7 +75,7 @@
 	border-bottom-left-radius:15px;
 	border-bottom-right-radius:15px;
 }
-#e111_1462 { 
+.e111_1462 { 
 	background-color:rgba(75.00000312924385, 183.00000429153442, 72.00000330805779, 1);
 	width:320px;
 	height:65px;
@@ -87,7 +87,7 @@
 	border-bottom-left-radius:15px;
 	border-bottom-right-radius:15px;
 }
-#e111_1463 { 
+.e111_1463 { 
 	background-color:rgba(246.49999290704727, 246.49999290704727, 246.49999290704727, 1);
 	width:65px;
 	height:65px;
@@ -95,7 +95,7 @@
 	left:74px;
 	top:220px;
 }
-#e111_1464 { 
+.e111_1464 { 
 	background-color:rgba(246.49999290704727, 246.49999290704727, 246.49999290704727, 1);
 	width:65px;
 	height:65px;
@@ -103,7 +103,7 @@
 	left:74px;
 	top:308px;
 }
-#e111_1465 { 
+.e111_1465 { 
 	background-color:rgba(246.49999290704727, 246.49999290704727, 246.49999290704727, 1);
 	width:65px;
 	height:65px;
@@ -111,7 +111,7 @@
 	left:74px;
 	top:396px;
 }
-#e111_1466 { 
+.e111_1466 { 
 	width:65px;
 	height:65px;
 	position:absolute;
@@ -121,7 +121,7 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-#e111_1467 { 
+.e111_1467 { 
 	width:65px;
 	height:65px;
 	position:absolute;
@@ -131,7 +131,7 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-#e111_1468 { 
+.e111_1468 { 
 	width:65px;
 	height:65px;
 	position:absolute;
@@ -141,7 +141,7 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-#e111_1469 { 
+.e111_1469 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:24px;
 	height:23px;
@@ -149,7 +149,7 @@
 	left:206px;
 	top:417px;
 }
-#e111_1470 { 
+.e111_1470 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:24px;
 	height:23px;
@@ -157,7 +157,7 @@
 	left:206px;
 	top:329px;
 }
-#e111_1471 { 
+.e111_1471 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:24px;
 	height:23px;
@@ -165,7 +165,7 @@
 	left:206px;
 	top:241px;
 }
-#e111_1472 { 
+.e111_1472 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:24px;
 	height:23px;
@@ -173,7 +173,7 @@
 	left:206px;
 	top:153px;
 }
-#e111_1473 { 
+.e111_1473 { 
 	color:rgba(255, 255, 255, 1);
 	width:249px;
 	height:52px;
@@ -185,7 +185,7 @@
 	font-size:40px;
 	letter-spacing:0;
 }
-#e111_1474 { 
+.e111_1474 { 
 	color:rgba(255, 255, 255, 1);
 	width:249px;
 	height:52px;
@@ -197,7 +197,7 @@
 	font-size:40px;
 	letter-spacing:0;
 }
-#e111_1475 { 
+.e111_1475 { 
 	color:rgba(255, 255, 255, 1);
 	width:249px;
 	height:52px;
@@ -209,7 +209,7 @@
 	font-size:40px;
 	letter-spacing:0;
 }
-#e111_1476 { 
+.e111_1476 { 
 	color:rgba(255, 255, 255, 1);
 	width:249px;
 	height:52px;
@@ -221,7 +221,7 @@
 	font-size:40px;
 	letter-spacing:0;
 }
-#e111_1477 { 
+.e111_1477 { 
 	width:100px;
 	height:100px;
 	position:absolute;
