@@ -24,6 +24,7 @@
 
     <div class="main_body_table">
         <table>
+            <h3>To recieve</h3>
             <tr>
                 <th>Company</th>
                 <th>Address</th>
@@ -41,17 +42,18 @@
 
     <div class="outbound_invoices">
         <table>
+            <h3>To pay out</h3>
             <tr>
-                <th style="169.7px;">Company being paid</th>
-                <th style="438.95px;">Address</th>
-                <th style="216.033px;">Price</th>
-                <th style="665.317px;">Description of invoice</th>
+                <th>Company</th>
+                <th>Address</th>
+                <th>Price</th>
+                <th>Description of invoice</th>
             </tr>
             <tr>
-                <td style="169.7px;">Business 2</td>
-                <td style="438.95px;">2 Lollypop lane, candy town</td>
-                <td style="216.033px;">Rather dear</td>
-                <td style="665.317px;">Energy bills</td>
+                <td>Business 2</td>
+                <td>2 Lollypop lane, candy town</td>
+                <td>Rather dear</td>
+                <td>Energy bills</td>
             </tr>
         </table>
     </div>
