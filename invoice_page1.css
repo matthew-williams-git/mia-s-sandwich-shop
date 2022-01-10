@@ -1,18 +1,23 @@
 .Page-head {
     float: left;
 }
+.Page-head h1 {
+    margin: 5px;
+}
 
 .new-invoice-btn {
     width: 160px;
     height: 30px;
     background-color: #2CD632; opacity: 62%;
     float: right;
+    margin-right: 100px;
+    margin-top: 14px;
 }
 
 .new-invoice-btn img {
     height: 20px;
     float: left;
-    vertical-align: middle;
+    padding: 5px;
 }
 
 .new-invoice-btn p {
@@ -21,5 +26,6 @@
     float: left;
     margin: 0px;
     padding-left: 10px;
+    padding-top: 5px;
     vertical-align: middle;
 }
