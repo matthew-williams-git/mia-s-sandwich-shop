@@ -23,8 +23,8 @@
     </a>
 
     <div class="main_body_table">
+        <h3>To recieve</h3>
         <table>
-            <h3>To recieve</h3>
             <tr>
                 <th>Company</th>
                 <th>Address</th>
@@ -41,8 +41,8 @@
     </div>
 
     <div class="outbound_invoices">
+        <h3>To pay out</h3>
         <table>
-            <h3>To pay out</h3>
             <tr>
                 <th>Company</th>
                 <th>Address</th>
