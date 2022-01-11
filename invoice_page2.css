@@ -17,7 +17,7 @@
     height: 20px;
     float: left;
     padding: 5px;
-    rotate: 45;
+    transform: rotate(45deg);
 }
 .cancel_button p {
     color: #404040;
