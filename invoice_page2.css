@@ -53,14 +53,16 @@
 }
 
 .etr_customer_data {
-    width: 500px;
+    width: 750px;
+    height: 650px;
     float: left;
     margin-top: 25px;
     background-color: aquamarine;
 }
 
 .invoice_details {
-    width: 500px;
+    width: 750px;
+    height: 650px;
     float: left;
     margin-top: 25px;
     background-color: pink;
@@ -69,6 +71,7 @@
 .price_breakdown {
     width: 1500px;
     float: left;
-    margin-top: 25px;
+    margin-top: 5px;
+    margin-left: 229px;
     background-color: royalblue;
 }
