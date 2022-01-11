@@ -56,12 +56,13 @@
     width: 725px;
     height: 650px;
     float: left;
-    margin-top: 15px;
+    margin-top: 10px;
+    padding-top: 5px;
     padding-left: 20px;
     background-color: #d7d5d5;
 }
 .etr_customer_data > legend:nth-child(1) {
- padding-left: 20px;
+    padding-left: 20px;
 }
 
 
@@ -70,12 +71,13 @@
     height: 650px;
     float: left;
     margin-left: 10px;
-    margin-top: 15px;
+    margin-top: 10px;
+    padding-top: 5px;
     padding-left: 20px;
     background-color: #d7d5d5;
 }
 .invoice_details > legend:nth-child(1) {
- padding-left: 20px;
+    padding-left: 20px;
 }
 
 
@@ -83,6 +85,10 @@
     width: 1500px;
     float: left;
     margin-top: 10px;
+    padding-top: 5px;
     margin-left: 229px;
     background-color: #d7d5d5;
+}
+.price_breakdown > legend:nth-child(1) {
+    padding-left: 20px;
 }
