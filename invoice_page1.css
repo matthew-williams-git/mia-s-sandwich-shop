@@ -69,3 +69,7 @@ td:nth-child(even) {
     margin: 15px 850px;
     padding: 0px;
 }
+
+td:hover, tr:hover {
+    background-color: #404040;
+}
