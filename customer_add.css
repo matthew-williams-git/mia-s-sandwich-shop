@@ -2,6 +2,7 @@
     height: 800;
     width: 1400;
     background-color: #D7D5D5;
+    float: left;
 }
 
 .page_title {
