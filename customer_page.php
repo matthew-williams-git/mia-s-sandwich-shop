@@ -15,4 +15,11 @@
     <a href="customer_add.php">
         <h1>In the jungle, the mighty jungle, the lion sleeps tonight</h1>
     </a>
+    
+    <a href="customer_add.php">
+        <div class="add_customer_btn">
+            <img src="title_bar_images/Plus Icon.png">
+            <p>Add Customer</p>
+        </div>
+    </a>
 </body>
