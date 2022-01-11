@@ -1,3 +1,53 @@
-h1 {
-    color: purple;
+.page_head {
+    float: left;
+}
+.page_head h1 {
+    margin: 5px;
+}
+
+.cancel_button {
+    width: 180px;
+    height: 30px;
+    background-color: #D62C2C; opacity: 80%;
+    float: left;
+    margin-left: 1100px;
+    margin-top: 14px;
+}
+.cancel_button img {
+    height: 20px;
+    float: left;
+    padding: 5px;
+    rotate: 45;
+}
+.cancel_button p {
+    color: #404040;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin: 0px;
+    padding-left: 10px;
+    padding-top: 5px;
+    vertical-align: middle;
+}
+
+.confirm_button {
+    width: 180px;
+    height: 30px;
+    background-color: #2CD632; opacity: 62%;
+    float: left;
+    margin-left: 50px;
+    margin-top: 14px;
+}
+.confirm_button img {
+    height: 20px;
+    float: left;
+    padding: 5px;
+}
+.confirm_button p {
+    color: #404040;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin: 0px;
+    padding-left: 10px;
+    padding-top: 5px;
+    vertical-align: middle;
 }
