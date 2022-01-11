@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="invoice_page1.css">
     <link rel="stylesheet" href="universal.css">
     <style>
-        .invoices_tab {
+        .invoice_tab {
             background-color: #404040;
         }
     </style>
