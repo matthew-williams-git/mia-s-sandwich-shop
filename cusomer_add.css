@@ -3,3 +3,7 @@
     width: 1400;
     background-color: #D7D5D5;
 }
+
+.page_title h1 {
+    margin: 5px;
+}
