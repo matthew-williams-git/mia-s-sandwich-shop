@@ -12,5 +12,7 @@
     </style>
 </head>
 <body>
-    <h1>In the jungle, the mighty jungle, the lion sleeps tonight</h1>
+    <a href="cusomter_add.php">
+        <h1>In the jungle, the mighty jungle, the lion sleeps tonight</h1>
+    </a>
 </body>
