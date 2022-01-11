@@ -78,4 +78,25 @@
         <label for="amountdue">Amount Due</label>
         <input type="number" id="amountdue" name="amountdue_input" value="way to much">
     </div>
+
+    <div class="price_breakdown">
+        <legend>Price breakdown</legend><br><br>
+
+        <table>
+            <tr>
+                <th>Quantity</th>
+                <th>Description</th>
+                <th>Unit Price</th>
+                <th>VAT</th>
+                <th>Total</th>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>What it costs to develop this system</td>
+                <td>6000</td>
+                <td>0%</td>
+                <td>18000</td> <!-- work out how to do calculated fields -->
+            </tr>
+        </table>
+    </div>
 </body>
