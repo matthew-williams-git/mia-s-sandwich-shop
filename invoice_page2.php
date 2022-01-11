@@ -46,5 +46,14 @@
 
         <label for="emailaddress">Email Address</label>
         <input type="text" id="emailaddress" name="emailaddress" value="nobodyknows@whocares.co.uk"><br><br>
+
+        <label for="pnumber">Phone Number</label>
+        <input type="text" id="pname2" name="pname"><br><br>
+
+        <label for="postaladdress">Postal/delivery address</label>
+        <textarea name="postaladdress" id="postaladdress" cols="30" rows="10">lollypop lollypop, oh lolly lolly lolly lollypop.... ubub bumb bumb</textarea><br><br>
+
+        <label for="extrainfo">Additional Information</label>
+        <textarea name="extrainfo" id="extrainfo" cols="30" rows="10"></textarea>
     </div>
 </body>

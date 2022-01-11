@@ -55,5 +55,6 @@
 .etr_customer_data {
     width: 500px;
     float: left;
-    margin-left: 200px;
+    margin-top: 25px;
+    background-color: aquamarine;
 }
