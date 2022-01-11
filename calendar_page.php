@@ -3,7 +3,7 @@
     include('ribbon.php');
 ?>
 <head>
-    <link rel="stylesheet" href="calender_page.css">
+    <link rel="stylesheet" href="calendar_page.css">
     <link rel="stylesheet" href="universal.css">
     <style>
         .calender_tab {
@@ -11,3 +11,8 @@
         }
     </style>
 </head>
+<body>
+    <div class="add-calendar">
+    
+    </div>
+</body>
