@@ -13,7 +13,7 @@
 </head>
 <body>
     <a href="customer_add.php">
-        <h1>In the jungle, the mighty jungle, the lion sleeps tonight</h1>
+        <h1>Customers</h1>
     </a>
     
     <a href="customer_add.php">
