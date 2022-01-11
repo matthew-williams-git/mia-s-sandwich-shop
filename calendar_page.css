@@ -1,0 +1,29 @@
+.add-calendar {
+  margin-right: 13px;
+  margin-top: 18px;
+}
+
+.calendar-main {
+  margin-left: 19px;
+  margin-top: 18px;
+}
+
+.add-calendar p {
+  color: #000000;
+  font-family: Roboto Condensed;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.add-calendar p {
+  color: #000000;
+  font-family: Roboto Condensed;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+}
