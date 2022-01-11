@@ -1,0 +1,10 @@
+
+.back{
+    position: absolute;
+    width: 1400px;
+    height: 800px;
+    left: 20px;
+    top: 200px;
+
+    background: #D7D5D5;
+}
