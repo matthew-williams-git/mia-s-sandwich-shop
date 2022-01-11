@@ -1,3 +1,27 @@
 h1 {
     color: green;
 }
+.customer_add_btn {
+    width: 160px;
+    height: 30px;
+    background-color: #2CD632; opacity: 62%;
+    float: left;
+    margin-left: 1500px;
+    margin-top: 14px;
+}
+
+.customer_add_btn img {
+    height: 20px;
+    float: left;
+    padding: 5px;
+}
+
+.customer_add_btn p {
+    color: #404040;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin: 0px;
+    padding-left: 10px;
+    padding-top: 5px;
+    vertical-align: middle;
+}
