@@ -35,16 +35,16 @@
     <div class="etr_customer_data">
         <legend>Enter Cusomer/Business details</legend>
 
-        <label for="bname">Business or Customer name</label>
-        <input type="text" id="bname" name="bname" value="business name">
+        <label for="bname">Business or Customer name</label><br>
+        <input type="text" id="bname" name="bname" value="business name"><br>
 
-        <label for="acontact">Assigned Contact</label>
+        <label for="acontact">Assigned Contact</label><br>
         <input type="text" id="acontact" name="acontact" value="Assigned Contact">
 
-        <label for="title">Title</label>
-        <input type="text" id="title" name="title" value="Mr, Mrs, Dr, Ms">
+        <label for="title">Title</label><br>
+        <input type="text" id="title" name="title" value="Mr, Mrs, Dr, Ms"><br>
 
-        <label for="emailaddress">Email Address</label>
-        <input type="text" id="emailaddress" name="emailaddress" value="nobodyknows@whocares.co.uk">
+        <label for="emailaddress">Email Address</label><br>
+        <input type="text" id="emailaddress" name="emailaddress" value="nobodyknows@whocares.co.uk"><br>
     </div>
 </body>
