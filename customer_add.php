@@ -16,7 +16,7 @@
         <h1>New Customer</h1>
     </div>
 
-    <div class="background">
+    <!-- load of shit, will remove later<div class="background">
         
-    </div>
+    </div> -->
 </body>
