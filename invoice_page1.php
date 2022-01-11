@@ -37,6 +37,12 @@
                 <td>too expensive</td>
                 <td>price of building the website and database</td>
             </tr>
+            <tr>
+                <td>lollypop</td>
+                <td>lollypop</td>
+                <td>Oh lolly, lolly, lolly pollypop</td>
+                <td>Ohbumb bumb bumb</td>
+            </tr>
         </table>    
     </div>
 
@@ -54,6 +60,12 @@
                 <td>2 Lollypop lane, candy town</td>
                 <td>Rather dear</td>
                 <td>Energy bills</td>
+            </tr>
+            <tr>
+                <td>lollypop</td>
+                <td>lollypop</td>
+                <td>Oh lolly, lolly, lolly pollypop</td>
+                <td>Ohbumb bumb bumb</td>
             </tr>
         </table>    
     </div>
