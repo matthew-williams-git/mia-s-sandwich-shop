@@ -84,11 +84,11 @@
 
         <table>
             <tr>
-                <th>Quantity</th>
-                <th>Description</th>
-                <th>Unit Price</th>
-                <th>VAT</th>
-                <th>Total</th>
+                <th style="width: 80px">Quantity</th>
+                <th style="width: 1200px">Description</th>
+                <th style="width: 100px">Unit Price</th>
+                <th style="width: 40px">VAT</th>
+                <th style="width: 70px">Total</th>
             </tr>
             <tr>
                 <td>3</td>
