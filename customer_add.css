@@ -65,3 +65,21 @@
     vertical-align: middle;
     font-weight: bold;
 }
+
+.Customer_details {
+    width: 600px;
+    float: left;
+    margin-top: 50px;
+}
+.Customer_details .left_culumn {
+    width: 300px;
+    float: left;
+}
+.Customer_details .right_culumn {
+    width: 300px;
+    float: left;
+    height: 88px;
+}
+.Customer_details h3 {
+    float: left;
+}

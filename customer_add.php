@@ -52,13 +52,13 @@
         </div>
 
         <div class="phone_number">
-            <h3>Contact details</h3>
+            <h3>Contact details</h3><br>
             <label for="customer_pnumber">Phone number</label><br>
             <input type="text" id="customer_pnumber" name="customer_pnumber" placeholder="07792329851">
         </div>
 
         <div class="phone_type">
-            <h3></h3>
+            <h3></h3><br>
             <label for="phone_type">Phone type</label>
             <select name="phone_type" id="phone">
                 <option value="Mobile">Mobile</option>
