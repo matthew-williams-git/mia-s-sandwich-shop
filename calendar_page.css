@@ -1,4 +1,6 @@
 .add-calendar {
+  float: right;
+  float:top;
   margin-right: 13px;
   margin-top: 18px;
 }
