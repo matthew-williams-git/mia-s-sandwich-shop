@@ -17,8 +17,7 @@
     width: 160px;
     height: 30px;
     background-color: #D62C2C; opacity: 80%;
-    float: left;
-    margin-left: 1218px;
+    float: right;
     margin-top: 14px;
 }
 
@@ -43,8 +42,9 @@
     width: 160px;
     height: 30px;
     background-color: #2CD632; opacity: 62%;
-    float: left;
+    float: right;
     margin-left: 34px;
+    margin-right: 87px;
     margin-top: 14px;
 }
 
@@ -57,7 +57,7 @@
 .confirm_button p {
     color: #404040;
     font-family: Arial, Helvetica, sans-serif;
-    float: left;
+    float: right;
     margin: 0px;
     padding-left: 10px;
     padding-top: 5px;

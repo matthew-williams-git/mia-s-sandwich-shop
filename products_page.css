@@ -1,15 +1,17 @@
-.new_customer_btn {
+.new_product {
     width: 160px;
     height: 30px;
     background-color: #2CD632; opacity: 62%;
-    float: left;
+    float: right;
+    margin-right: 87px;
+    margin-top: 14px;
 }
-.new_customer_btn img {
+.new_product img {
     height: 20px;
     float: left;
     vertical-align: middle;
 }
-.new_customer_btn p {
+.new_product p {
     color: #404040;
     font-family: Arial, Helvetica, sans-serif;
     float:left;

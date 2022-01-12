@@ -13,9 +13,9 @@
 </head>
 <body>
     <a href="#works">
-        <div class="new_customer_btn">
+        <div class="new_product">
             <img src="title_bar_images/Plus Icon.png">
-            <p>New Customer</p>
+            <p>New Product</p>
         </div>
     </a>
 </body>

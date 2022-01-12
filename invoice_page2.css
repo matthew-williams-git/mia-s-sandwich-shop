@@ -9,8 +9,7 @@
     width: 160px;
     height: 30px;
     background-color: #D62C2C; opacity: 80%;
-    float: left;
-    margin-left: 1250px;
+    float: right;
     margin-top: 14px;
 }
 .cancel_button img {
@@ -33,7 +32,8 @@
     width: 160px;
     height: 30px;
     background-color: #2CD632; opacity: 62%;
-    float: left;
+    float: right;
+    margin-right: 87px;
     margin-left: 34px;
     margin-top: 14px;
 }
