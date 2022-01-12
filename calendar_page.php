@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <div class="add-calendar">
+    <form class="add-calendar">
         <h1>Add To Calendar</h1>
         
         <label for="eventname">Name Of Event</label><br>
@@ -23,7 +23,9 @@
         
         <label for="eventlocation">Location</label><br>
         <input type="text" id="eventlocation" name="eventlocation_input"><br><br>
-    </div>
+
+        <input type="submit" id="Submit"></input>
+    </form>
      
     <div class="calendar-main">
         
