@@ -15,10 +15,6 @@
     <div class="page_title">
         <h1>New Customer</h1>
     </div>
-
-    <!-- load of shit, will remove later<div class="background">
-        
-    </div> -->
     
     <a href="customer_page.php">
         <div class="confirm_button">
