@@ -18,8 +18,8 @@
         <label for="eventname">Name Of Event</label><br>
         <input type="text" id="eventname" name="eventname_input"><br><br>
             
-        <label for="datetime">Time And Date</label><br>
-        <input type="datetime" id="datetime" name="datetime_input"><br><br>
+        <label for="date">Date</label><br>
+        <input type="date" id="date" name="date_input"><br><br>
         
         <label for="eventlocation">Location</label><br>
         <input type="text" id="eventlocation" name="eventlocation_input"><br><br>
