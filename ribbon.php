@@ -39,10 +39,10 @@
     </div>
     </a>
     
-    <a href="calender_page.php">
-    <div class="calender_tab">
-        <img src="ribbon_images/Caldender Logo.png" alt="Calender" style="width:50px;height:50px">
-        <p>Calender</p>
+    <a href="calendar_page.php">
+    <div class="calendar_tab">
+        <img src="ribbon_images/Calendar Logo.png" alt="Calendar" style="width:50px;height:50px">
+        <p>Calendar</p>
     </div>
     </a>
 
