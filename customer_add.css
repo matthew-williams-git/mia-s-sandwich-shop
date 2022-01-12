@@ -21,12 +21,14 @@
     margin-left: 1250px;
     margin-top: 14px;
 }
+
 .cancel_button img {
     height: 20px;
     float: left;
     padding: 5px;
     transform: rotate(45deg);
 }
+
 .cancel_button p {
     color: #404040;
     font-family: Arial, Helvetica, sans-serif;
@@ -45,11 +47,13 @@
     margin-left: 34px;
     margin-top: 14px;
 }
+
 .confirm_button img {
     height: 20px;
     float: left;
     padding: 5px;
 }
+
 .confirm_button p {
     color: #404040;
     font-family: Arial, Helvetica, sans-serif;
