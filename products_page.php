@@ -1,4 +1,5 @@
 <?php
+    session_start();
     include('top_bar.php');
     include('ribbon.php');
 ?>
