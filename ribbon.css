@@ -84,18 +84,18 @@
     background-color: #404040;
 }
 
-/* calender tab ...... */
-.calender_tab {
+/* calendar tab ...... */
+.calendar_tab {
     float: left;
     width: 100px;
 }
-.calender_tab img {
+.calendar_tab img {
     transform: translate(50%, 20%);
 }
-.calender_tab p {
+.calendar_tab p {
     text-align: center;
 }
-.calender_tab:hover {
+.calendar_tab:hover {
     background-color: #404040;
 }
 
