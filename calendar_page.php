@@ -20,6 +20,9 @@
             
         <label for="date">Date</label><br>
         <input type="date" id="date" name="date_input"><br><br>
+
+        <label for="time">Time</label><br>
+        <input type="time" id="time" name="time_input"><br><br>
         
         <label for="eventlocation">Location</label><br>
         <input type="text" id="eventlocation" name="eventlocation_input"><br><br>
