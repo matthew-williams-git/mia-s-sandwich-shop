@@ -25,7 +25,7 @@
     </a>    
     
     <a href="cancel_page.php">
-        <div class="confirm_button">
+        <div class="cancel_button">
             <img src="title_bar_images/Plus Icon.png">
             <p>Cancel</p>
         </div>
