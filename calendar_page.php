@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="calendar_page.css">
     <link rel="stylesheet" href="universal.css">
     <style>
-        .calender_tab {
+        .calendar_tab {
             background-color: #404040;
         }
     </style>
