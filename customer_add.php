@@ -17,16 +17,18 @@
     </div>
     
     <a href="customer_page.php">
+        <div class="cancel_button">
+            <img src="title_bar_images/Plus Icon.png">
+            <p>Cancel</p>
+        </div>
+    </a>    
+    
+    <a href="customer_page.php">
         <div class="confirm_button">
             <img src="title_bar_images/Plus Icon.png">
             <p>Confirm</p>
         </div>
     </a>
     
-    <a href="customer_page.php">
-        <div class="cancel_button">
-            <img src="title_bar_images/Plus Icon.png">
-            <p>Cancel</p>
-        </div>
-    </a>
+
 </body>
