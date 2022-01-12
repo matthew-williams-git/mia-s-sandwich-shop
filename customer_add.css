@@ -78,8 +78,20 @@
 .Customer_details .right_culumn {
     width: 300px;
     float: left;
-    height: 88px;
+    height: 107px;
 }
-.Customer_details h3 {
+.Customer_details .phone_number h3 {
     float: left;
+    width: 600px;
+}
+.Customer_details .phone_number {
+    float: left;
+    height: 100px;
+    width: 300px;
+}
+.Customer_details .phone_type {
+    height: 100px;
+    float: left;
+    width: 300px;
+    padding-top: 20px;
 }
