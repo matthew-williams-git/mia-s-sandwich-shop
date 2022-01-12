@@ -18,17 +18,17 @@
     </div>
 
     <a href="invoice_page1.php">
-        <div class="cancel_button">
+        <div class="confirm_button">
             <img src="title_bar_images/Plus Icon.png">
-            <p>Cancel</p>
+            <p>Confirm</p>
         </div>
     </a>
 
     <!-- add php in here somewhere to input data into the database -->
     <a href="invoice_page1.php">
-        <div class="confirm_button">
+        <div class="cancel_button">
             <img src="title_bar_images/Plus Icon.png">
-            <p>Confirm</p>
+            <p>Cancel</p>
         </div>
     </a>
 
