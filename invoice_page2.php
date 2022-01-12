@@ -18,17 +18,17 @@
     </div>
 
     <a href="invoice_page1.php">
-        <div class="confirm_button">
+        <div class="cancel_button">
             <img src="title_bar_images/Plus Icon.png">
-            <p>Confirm</p>
+            <p>Cancel</p>
         </div>
     </a>
 
     <!-- add php in here somewhere to input data into the database -->
     <a href="invoice_page1.php">
-        <div class="cancel_button">
+        <div class="confirm_button">
             <img src="title_bar_images/Plus Icon.png">
-            <p>Cancel</p>
+            <p>Confirm</p>
         </div>
     </a>
 
@@ -37,16 +37,16 @@
         <legend>Enter Cusomer/Business details</legend><br><br>
 
         <label for="bname">Business or Customer name</label>
-        <input type="text" id="bname" name="bname_input" value="Business name"><br><br>
+        <input type="text" id="bname" name="bname_input" placeholder="Business name"><br><br>
 
         <label for="acontact">Assigned Contact</label>
-        <input type="text" id="acontact" name="acontact_input" value="Assigned Contact"><br><br>
+        <input type="text" id="acontact" name="acontact_input" placeholder="Assigned Contact"><br><br>
 
         <label for="title">Title</label>
-        <input type="text" id="title" name="title_input" value="Mr, Mrs, Dr, Ms"><br><br>
+        <input type="text" id="title" name="title_input" placeholder="Mr, Mrs, Dr, Ms"><br><br>
 
         <label for="emailaddress">Email Address</label>
-        <input type="email" id="emailaddress" name="emailaddress_input" value="nobodyknows@whocares.co.uk"><br><br>
+        <input type="email" id="emailaddress" name="emailaddress_input" placeholder="nobodyknows@whocares.co.uk"><br><br>
 
         <label for="pnumber">Phone Number</label>
         <input type="text" id="pname2" name="pname_input"><br><br>
@@ -65,7 +65,7 @@
         <input type="text" id="invoice_number" name="invoice_number_input"><br><br>
 
         <label for="status">Status</label>
-        <input type="text" id="status" name="status_input" value="in limbo"><br><br>
+        <input type="text" id="status" name="status_input" placeholder="in limbo"><br><br>
 
         <label for="invoicedate">Invoicing date</label>
         <input type="date" id="invoicedate" name="invoicedate_input" value="current date"><br><br> <!-- work out how to get current date -->
