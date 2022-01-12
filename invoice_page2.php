@@ -16,13 +16,6 @@
         <h1>New Invoice</h1>
     </div>
 
-    <a href="invoice_page1.php">
-        <div class="cancel_button">
-            <img src="title_bar_images/Plus Icon.png">
-            <p>Cancel</p>
-        </div>
-    </a>
-
     <!-- add php in here somewhere to input data into the database -->
     <a href="invoice_page1.php">
         <div class="confirm_button">
@@ -31,6 +24,12 @@
         </div>
     </a>
 
+    <a href="invoice_page1.php">
+        <div class="cancel_button">
+            <img src="title_bar_images/Plus Icon.png">
+            <p>Cancel</p>
+        </div>
+    </a>
     <!-- input fields for data -->
     <div class="etr_customer_data">
         <legend>Enter Cusomer/Business details</legend><br><br>

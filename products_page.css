@@ -10,6 +10,8 @@
     height: 20px;
     float: left;
     vertical-align: middle;
+    padding-left: 10px;
+    padding-top: 5px;
 }
 .new_product p {
     color: #404040;
