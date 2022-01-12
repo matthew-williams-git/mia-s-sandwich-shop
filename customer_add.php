@@ -35,7 +35,7 @@
     <div class="Customer_details">
         <div class="left_culumn">
             <label for="customer_fname">First name</label><br>
-            <input type="text" id="cusotmer_fname" name="customer_fname" placeholder="Enter first name..."><br>
+            <input type="text" id="cusotmer_fname" name="customer_fname" placeholder="Enter first name..."><br><br>
 
             <label for="customer_title">Title</label><br>
             <select name="customer_title" id="title">
@@ -47,7 +47,7 @@
         </div>
 
         <div class="right_culumn">
-            <label for="customer_lname">Last Name</label>
+            <label for="customer_lname">Last Name</label><br>
             <input type="text" id="customer_lname" name="customer_lname" placeholder="Enter last name...">
         </div>
 
@@ -59,7 +59,7 @@
 
         <div class="phone_type">
             <h3></h3><br>
-            <label for="phone_type">Phone type</label>
+            <label for="phone_type">Phone type</label><br>
             <select name="phone_type" id="phone">
                 <option value="Mobile">Mobile</option>
                 <option value="Home_landline">Home landline</option>
