@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <form class="add-calendar" action="customer_page.php" method="POST">
+    <form class="add-calendar" action="calendar_data.php" method="POST">
         <h1>Add To Calendar</h1>
         
         <label for="eventname">Name Of Event</label><br>
