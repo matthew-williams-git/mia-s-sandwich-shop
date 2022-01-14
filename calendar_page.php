@@ -27,8 +27,11 @@
         
         <label for="eventlocation">Location</label><br>
         <input type="text" id="eventlocation" name="eventlocation_input"><br><br>
+        
+        <label for-"eventnotes">Notes</label><br>
+        <input type="text" id="eventnotes" name-"eventnotes_input">
 
-        <input type="submit" id="Submit"></input>
+        <button type="enterbutton">Submit</button>
     </form>
      
     <div class="calendar-main">
