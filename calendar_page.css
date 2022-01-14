@@ -1,11 +1,13 @@
 .add-calendar {
   float: right;
-  float:top;
+  float: top;
   margin-right: 13px;
   margin-top: 18px;
 }
 
 .calendar-main {
+  float: left;
+  float: top;
   margin-left: 19px;
   margin-top: 18px;
 }
