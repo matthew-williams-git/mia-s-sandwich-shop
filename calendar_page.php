@@ -35,6 +35,10 @@
     </form>
      
     <div class="calendar-main">
+        <h1>Calendar</h1>
+        
+        <button type="addeventbutton">New Event</button>
+        
         
     </div>
 </body>
