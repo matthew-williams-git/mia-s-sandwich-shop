@@ -17,19 +17,19 @@
         <h1>Add To Calendar</h1>
         
         <label for="eventname">Name Of Event</label><br>
-        <input type="text" id="eventname" name="eventname_input"><br><br>
+        <input type="text" id="eventname" name="eventname_input" width=482px><br><br>
             
         <label for="date">Date</label><br>
-        <input type="date" id="date" name="date_input"><br><br>
+        <input type="date" id="date" name="date_input" width=482px><br><br>
 
         <label for="time">Time</label><br>
-        <input type="time" id="time" name="time_input"><br><br>
+        <input type="time" id="time" name="time_input" width=482px><br><br>
         
         <label for="eventlocation">Location</label><br>
-        <input type="text" id="eventlocation" name="eventlocation_input"><br><br>
+        <input type="text" id="eventlocation" name="eventlocation_input" width=482px><br><br>
         
         <label for-"eventnotes">Notes</label><br>
-        <input type="text" id="eventnotes" name-"eventnotes_input">
+        <input type="text" id="eventnotes" name-"eventnotes_input width=482px">
 
         <button type="enterbutton">Submit</button>
     </form>
