@@ -131,5 +131,12 @@
 
 .customer_options {
     float: left;
+    width: 600px;
+    padding-left: 25px;
     background-color: seagreen;
+}
+
+.customer_options > input:nth-child(2), .customer_options > input:nth-child(6), .customer_options > input:nth-child(10) {
+    float: right;
+    margin-right: 50px;
 }
