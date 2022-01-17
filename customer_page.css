@@ -28,3 +28,9 @@ h1 {
     vertical-align: middle;
     font-weight: bold;
 }
+
+.search_bar {
+    float: left;
+    margin-left: 600px;
+    margin-top: 10px;
+}

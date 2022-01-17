@@ -13,10 +13,12 @@
     </style>
 </head>
 <body>
-        <h1>Customers</h1>
+    <h1>Customers</h1>
     
-    <input type="search" id="user_search" name="user_search" placeholder="Search users">
-    <input type="submit" value="Go!">
+    <div class="search_bar">
+        <input type="search" id="user_search" name="user_search" placeholder="Search users">
+        <input type="submit" value="Go!">
+    </div>
 
     <a href="customer_add.php">
         <div class="add_customer_btn">
