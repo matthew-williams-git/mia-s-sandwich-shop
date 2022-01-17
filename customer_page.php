@@ -17,6 +17,9 @@
         <h1>Customers</h1>
     </a>
     
+    <input type="search" id="user_search" name="user_search" placeholder="Search users">
+    <input type="submit" value="Go!">
+
     <a href="customer_add.php">
         <div class="add_customer_btn">
             <img src="title_bar_images/Plus Icon.png">
