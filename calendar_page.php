@@ -28,8 +28,8 @@
         <label for="eventlocation">Location</label><br>
         <input type="text" id="eventlocation" name="eventlocation_input" width=482px><br><br>
         
-        <label for-"eventnotes">Notes</label><br>
-        <input type="text" id="eventnotes" name-"eventnotes_input width=482px">
+        <label for="eventnotes">Notes</label><br>
+        <input type="text" id="eventnotes" name="eventnotes_input" width=482px>
 
         <button type="enterbutton">Submit</button>
     </form>
