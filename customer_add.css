@@ -68,6 +68,7 @@
 
 .Customer_details {
     width: 600px;
+    height: 700px;
     float: left;
     margin-top: 50px;
     padding-right: 25px;
@@ -117,8 +118,9 @@
 
 .business_details {
     width: 600px;
+    height: 700px;
     float: left;
-    padding-top: 5px;
+    margin-top: 6px;
     padding-left: 25px;
     background-color: royalblue;
 }
