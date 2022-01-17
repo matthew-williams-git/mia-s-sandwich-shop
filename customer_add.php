@@ -82,7 +82,7 @@
             <label for="business_name">Business name</label><br>
             <input type="text" id="business_name" name="business_name" placeholder="Business name"><br><br>
 
-            <label for="bill/del_adr">Billing/delivery_address</label><br>
+            <label for="bill/del_adr">Billing/delivery address</label><br>
             <input type="text" id="bill/del_adr" name="bill/del_adr" placeholder="156 Marzipan Views"><br><br>
 
             <label for="adr_ln_2">Address line 2</label><br>
