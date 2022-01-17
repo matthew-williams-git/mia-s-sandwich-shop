@@ -70,6 +70,7 @@
     width: 600px;
     float: left;
     margin-top: 50px;
+    padding-right: 25px;
 }
 .Customer_details .left_culumn {
     width: 300px;
@@ -111,4 +112,11 @@
 }
 #customer_fname {
     width: 250px;
+}
+
+.business_details {
+    width: 600px;
+    float: left;
+    margin-top: 50px;
+    padding-left: 25px;
 }

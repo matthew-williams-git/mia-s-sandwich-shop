@@ -76,4 +76,24 @@
         </div>
     </div>
 
+    <!-- right hand form -->
+    <div class="right_hand_from">
+        <div class="business_details">
+            <label for="business_name">Business name</label><br>
+            <input type="text" id="business_name" name="business_name" placeholder="Business name"><br><br>
+
+            <label for="bill/del_adr">Billing/delivery_address</label><br>
+            <input type="text" id="bill/del_adr" name="bill/del_adr" placeholder="156 Marzipan Views"><br><br>
+
+            <label for="adr_ln_2">Address line 2</label><br>
+            <input type="text" id="adr_ln_2" name="adr_ln_2" placeholder="Sugarplum Mountain"><br><br>
+
+            <label for="closest_city">Closest City</label><br>
+            <input type="text" id="closest_city" name="closest_city" placeholder="Truffle Town"><br><br>
+
+            <label for="postcode">Postcode</label><br>
+            <input type="text" id="postcode" name="postcode" placeholder="TR15 8NK">
+        </div>
+    </div>
+
 </body>
