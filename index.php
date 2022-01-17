@@ -37,6 +37,7 @@ $query->execute();
 $query->setFetchMode(PDO::FETCH_ASSOC);
 $result = $query->fetchColumn();
 print(htmlentities($result));
+?>
 
 <?php
 if (isset($_POST["selRating"]))
