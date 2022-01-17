@@ -13,9 +13,7 @@
     </style>
 </head>
 <body>
-    <a href="customer_add.php">
         <h1>Customers</h1>
-    </a>
     
     <input type="search" id="user_search" name="user_search" placeholder="Search users">
     <input type="submit" value="Go!">
