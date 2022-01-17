@@ -101,12 +101,12 @@
             <input type="checkbox" name="promo_email_chbx" checked="" style="float:right; margin-right:50px"><br><br>
 
             <!-- toggle switch doodah -->
-            <label style="padding:auto">Recieve invoices by post</label>
-            <label class="switch">
+            <label style="padding-top: 18px, float: left;">Recieve invoices by post</label>
+            <label class="switch" style="padding: 0px 25px;">
                 <input type="checkbox">
                 <span class="slider"></span>
             </label>
-            <label style="padding:auto">Recieve invoices by email</label><br><br>
+            <label style="padding-top: 18px; float: left;">Recieve invoices by email</label><br><br>
 
             <label for="act_sms_chbx">Activate SMS communications</label>
             <input type="checkbox" name="act_sms_chbx" checked="" style="float:right; margin-right:50px"><br><br>
