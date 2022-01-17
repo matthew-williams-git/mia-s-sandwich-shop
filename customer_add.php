@@ -98,21 +98,21 @@
 
         <div class="customer_options">
             <label for="promo_email_chbx">Recieve Promotional emails</label>
-            <input type="checkbox" name="promo_email_chbx" checked=""><br><br>
+            <input type="checkbox" name="promo_email_chbx" checked="" style="float:right; margin-right:50px"><br><br>
 
             <!-- toggle switch doodah -->
-            <label>Recieve invoices by post</label>
+            <label style="padding:auto">Recieve invoices by post</label>
             <label class="switch">
                 <input type="checkbox">
                 <span class="slider"></span>
             </label>
-            <label>Recieve invoices by email</label><br><br>
+            <label style="padding:auto">Recieve invoices by email</label><br><br>
 
             <label for="act_sms_chbx">Activate SMS communications</label>
-            <input type="checkbox" name="act_sms_chbx" checked=""><br><br>
+            <input type="checkbox" name="act_sms_chbx" checked="" style="float:right; margin-right:50px"><br><br>
 
             <label for="tax_exempt_chbx">Tax exempt</label>
-            <input type="checkbox" name="tax_exempt_chbx" checked="">
+            <input type="checkbox" name="tax_exempt_chbx" checked="" style="float:right; margin-right:50px">
         </div>
     </div>
 
