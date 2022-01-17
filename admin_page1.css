@@ -3,6 +3,7 @@
     margin-top: 15%;
     width: 20%;
     border: 5px;
+    border-radius: 4px;
     padding: 10px;
     background-color: red;
 }
@@ -16,12 +17,14 @@
 }
 
 .inputs{
-    border-radius: 8px;
+    border-radius: 4px;
+    padding:12px 20px;
     width: 100%;
 }
 
 .inputs, select{
-    border-radius: 8px;
+    border-radius: 4px;
+    padding:12px 20px;
     width: 100%;
     border: 1px solid #ccc;
 }
