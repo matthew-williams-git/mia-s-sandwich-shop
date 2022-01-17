@@ -7,11 +7,9 @@
 <body>
     <form action="account_data_process.php" method="POST">
 
-    <label for="uname"></label><br>
-    <input type="text" name="uname" placeholder="Username"><br>
-    <label for="pword"></label><br>
-    <input type="text" name="pword" placeholder="Password"><br>
-    <input type="submit" value="Submit">
+        <br><br><input type="text" name="uname" placeholder="Username"><br>
+        <input type="text" name="pword" placeholder="Password"><br><br>
+        <input type="submit" value="Submit">
 
     </form>
 </body>
