@@ -71,7 +71,7 @@
     height: 700px;
     float: left;
     margin-top: 50px;
-    padding: 0px 25px;
+    padding: 10px 25px;
     background-color: #d6d6d6;
 }
 .Customer_details .left_culumn {
@@ -121,7 +121,7 @@
     height: 400px;
     float: left;
     margin-top: 6px;
-    padding: 0px 25px;
+    padding: 10px 25px;
     background-color: #d6d6d6;
 }
 
