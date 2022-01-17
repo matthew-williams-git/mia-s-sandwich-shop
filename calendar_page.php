@@ -29,7 +29,7 @@
         <input type="text" id="eventlocation" name="eventlocation_input" width=482px><br><br>
         
         <label for="eventnotes">Notes</label><br>
-        <input type="text" id="eventnotes" name="eventnotes_input" width=482px>
+        <input type="text" id="eventnotes" name="eventnotes_input" width=4802px>
 
         <button type="enterbutton">Submit</button>
     </form>
