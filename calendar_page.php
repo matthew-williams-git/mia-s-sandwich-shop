@@ -98,4 +98,13 @@
            <li>6</li>
         </ul>
     </div>
+    
+    <div class="current.event">
+        <h1>Current Events</h1>
+        
+        <p>See Sharon: 13:00-13:30</p><br><br>
+        <p>Delivery: 16:00-17:00</p>
+        
+        
+    </div>
 </body>
