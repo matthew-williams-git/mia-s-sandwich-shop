@@ -66,6 +66,14 @@
                 <option value="Office_landline">Office landline</option>
             </select>
         </div>
+
+        <div class="email_address">
+            <label for="email_address">Email address</label><br>
+            <input type="email" id="email_address" name="email_address" placeholder="example@businss.co.uk"><br><br>
+
+            <label for="cc_email_adress">Invoice CC email address</label><br>
+            <input type="email" id="cc_email_address" name="cc_email_address" placeholder="example@businss.co.uk">
+        </div>
     </div>
 
 </body>

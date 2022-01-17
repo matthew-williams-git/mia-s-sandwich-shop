@@ -88,10 +88,15 @@
     float: left;
     height: 100px;
     width: 300px;
+    margin-bottom: 20px;
 }
 .Customer_details .phone_type {
     height: 100px;
     float: left;
     width: 300px;
     padding-top: 20px;
+}
+.Customer_details .email_address {
+    float: left;
+    width: 600px;
 }
