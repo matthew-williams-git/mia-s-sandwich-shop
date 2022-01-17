@@ -97,15 +97,15 @@
 
         <div class="customer_options">
             <label for="promo_email_chbx">Recieve Promotional emails</label>
-            <input type="chechbox" name="promo_email_chbx" value="1"><br><br>
+            <input type="checkbox" name="promo_email_chbx" value="1"><br><br>
 
             <!-- toggle switch doodah -->
 
             <label for="act_sms_chbx">Activate SMS communications</label>
-            <input type="chechbox" name="act_sms_chbx" value="1"><br><br>
+            <input type="checkbox" name="act_sms_chbx" value="1"><br><br>
 
             <label for="tax_exempt_chbx">Tax exempt</label>
-            <input type="chechbox" name="tax_exempt_chbx" value="1">
+            <input type="checkbox" name="tax_exempt_chbx" value="1">
         </div>
     </div>
 
