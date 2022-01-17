@@ -102,7 +102,7 @@
 
             <!-- toggle switch doodah -->
             <label style="padding: 9px 0px; float: left;">Recieve invoices by post</label>
-            <label class="switch" style="margin: 0px 25px; float: left;">
+            <label class="switch" style="margin: 0px 40px; float: left;">
                 <input type="checkbox">
                 <span class="slider"></span>
             </label>
