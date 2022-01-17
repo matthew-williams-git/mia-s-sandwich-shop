@@ -106,7 +106,7 @@
                 <input type="checkbox">
                 <span class="slider"></span>
             </label>
-            <label style="padding: 9px 0px; float: left;">Recieve invoices by email</label><br><br>
+            <label style="padding: 9px 0px; float: left;">Recieve invoices by email</label><br><br><br>
 
             <label for="act_sms_chbx">Activate SMS communications</label>
             <input type="checkbox" name="act_sms_chbx" checked="" style="float:right; margin-right:50px"><br><br>
