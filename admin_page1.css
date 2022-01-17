@@ -39,6 +39,8 @@
     height: 48px;
     background-color: #4CAF50;
     transition-duration: 0.2s;
+    border-radius: 4px;
+    border: none;
 }
 
 .submit:hover{
