@@ -1,7 +1,7 @@
 .admin-interface{
     margin: auto;
+    margin-top: 25%;
     width: 20%;
-    height: 35%;
     border: 5px;
     padding: 10px;
 }
