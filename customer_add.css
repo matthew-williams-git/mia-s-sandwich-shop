@@ -100,3 +100,15 @@
     float: left;
     width: 600px;
 }
+#cc_email_address {
+    width: 600px;
+}
+#email_address {
+    width: 600px;
+}
+#customer_lname {
+    width: 300px;
+}
+#customer_fname {
+    width: 250px;
+}
