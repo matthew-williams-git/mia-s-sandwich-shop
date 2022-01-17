@@ -6,6 +6,7 @@
 <head>
     <link rel="stylesheet" href="customer_add.css">
     <link rel="stylesheet" href="universal.css">
+    <link rel="stylesheet" href="switch_style.css">
     <style>
         .customer_tab {
             background-color: #404040;
@@ -100,6 +101,12 @@
             <input type="checkbox" name="promo_email_chbx" checked=""><br><br>
 
             <!-- toggle switch doodah -->
+            <label>Recieve invoices by post</label>
+            <label class="switch">
+                <input type="checkbox">
+                <span class="slider"></span>
+            </label>
+            <label>Recieve invoices by email</label>
 
             <label for="act_sms_chbx">Activate SMS communications</label>
             <input type="checkbox" name="act_sms_chbx" checked=""><br><br>

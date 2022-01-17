@@ -72,7 +72,7 @@
     float: left;
     margin-top: 50px;
     padding-right: 25px;
-    background-color: salmon;
+    background-color: #d6d6d6;
 }
 .Customer_details .left_culumn {
     width: 300px;
@@ -122,7 +122,7 @@
     float: left;
     margin-top: 6px;
     padding-left: 25px;
-    background-color: royalblue;
+    background-color: #d6d6d6;
 }
 
 #business_name, #bill\/del_adr, #adr_ln_2, #closest_city, #postcode {
@@ -133,7 +133,7 @@
     float: left;
     width: 600px;
     padding-left: 25px;
-    background-color: seagreen;
+    background-color: #d6d6d6;
 }
 
 .customer_options > input:nth-child(2), .customer_options > input:nth-child(6), .customer_options > input:nth-child(10) {
