@@ -66,6 +66,7 @@ body {font-family: Arial;}
 
 /* Weekdays (Mon-Sun) */
 .weekdays {
+  width: 100%;
   margin: 0;
   padding: 10px 0;
   background-color:#C4C4C4;
@@ -73,22 +74,23 @@ body {font-family: Arial;}
 
 .weekdays li {
   display: inline-block;
-  width: 100%;
+  width: 13.6%;
   color: #000000;
   text-align: center;
 }
 
 /* Days (1-31) */
 .days {
+  width: 100%;
   padding: 10px 0;
-  background: white;
+  background: #E8E8E8;
   margin: 0;
 }
 
 .days li {
   list-style-type: none;
   display: inline-block;
-  width: 100%;
+  width: 13.6%;
   text-align: center;
   margin-bottom: 5px;
   font-size:12px;
