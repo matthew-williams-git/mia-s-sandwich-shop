@@ -118,7 +118,7 @@
 
 .business_details {
     width: 600px;
-    height: 700px;
+    height: 400px;
     float: left;
     margin-top: 6px;
     padding-left: 25px;
@@ -127,4 +127,9 @@
 
 #business_name, #bill\/del_adr, #adr_ln_2, #closest_city, #postcode {
     width: 600px;
+}
+
+.customer_options {
+    float: left;
+    background-color: seagreen;
 }
