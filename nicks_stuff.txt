@@ -28,5 +28,5 @@ else
 }
 ?>
 
-<?php $database = new SQLite3(Mias SSDB.db) -->
+<?php $database = new SQLite3(MiasSSDB.db) -->
 ?> 

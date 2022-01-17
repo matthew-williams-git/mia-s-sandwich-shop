@@ -120,3 +120,7 @@
     margin-top: 50px;
     padding-left: 25px;
 }
+
+#business_name, #bill\/del_adr, #adr_ln_2, #closest_city, #postcode {
+    width: 600px;
+}
