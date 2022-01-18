@@ -55,12 +55,12 @@
             <table>
                 <tr>
                     <th>     </th>
-                    <th>Name</th>
-                    <th>Description</th>
-                    <th>Cost</th>
-                    <th>Retail</th>
-                    <th>Quantity</th>
-                    <th>Catagory</th>
+                    <th style="width: 100px;">Name</th>
+                    <th style="width: 600px">Description</th>
+                    <th style="width: 50px;">Cost</th>
+                    <th style="width: 50px;">Retail</th>
+                    <th style="width: 75px;">Quantity</th>
+                    <th style="width: 100px;">Catagory</th>
                     <th>     </th>
                 </tr>
                 <tr>
