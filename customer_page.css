@@ -38,6 +38,7 @@ h1 {
 /* customer table formatting */
 .customer_table {
     float: left;
+    margin-top: 50px;
 }
 .customer_table > table:nth-child(1) {
     width: 1478px;
@@ -47,4 +48,7 @@ tr:nth-child(odd) {
 }
 tr:nth-child(even) {
     background-color: #e1e1e1;
+}
+td {
+    padding: 10px;
 }
