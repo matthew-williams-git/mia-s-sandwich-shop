@@ -31,4 +31,11 @@
 
 .search_bar {
     float: left;
+    margin-top: 100px;
+}
+
+.inventory_table {
+    width: 1500px;
+    height: 600px;
+    background-color: #d6d6d6;
 }

@@ -28,4 +28,53 @@
         <input type="search" name="search_bar" id="search_bar">
         <input type="submit" value="Go!">
     </div>
+
+    <div class="main_content">
+        <div class="filter_btns">
+            <div class="all_btn">
+                <p>All</p>
+            </div>
+            <div class="cold_meat_btn">
+                <p>Cold Meats</p>
+            </div>
+            <div class="veg_btn">
+                <p>Vegatables</p>
+            </div>
+            <div class="bread_btn">
+                <p>Bread</p>
+            </div>
+            <div class="souce_btn">
+                <p>Sauces</p>
+            </div>
+            <div class="other_btn">
+                <p>Other</p>
+            </div>
+        </div>
+
+        <div class="inventory_table">
+            <table>
+                <tr>
+                    <th>     </th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Cost</th>
+                    <th>Retail</th>
+                    <th>Quantity</th>
+                    <th>Catagory</th>
+                    <th>     </th>
+                </tr>
+                <tr>
+                    <td>     </td>
+                    <td>White Bread</td>
+                    <td>White sandwich bread</td>
+                    <td>£xx.xx</td>
+                    <td>£xx.xx</td>
+                    <td>xx</td>
+                    <td>Bread</td>
+                    <td>     </td>
+                </tr>
+            </table>
+        </div>
+        
+    </div>
 </body>
