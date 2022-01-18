@@ -52,3 +52,7 @@ tr:nth-child(even) {
 td {
     padding: 10px;
 }
+tr:hover {
+    background-color: #404040;
+    color: #999999;
+}
