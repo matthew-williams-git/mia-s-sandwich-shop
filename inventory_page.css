@@ -53,11 +53,11 @@
     float: left;
 }
 
-.inventory_table >table:nth-last-child(odd) {
+tr:nth-last-child(odd) {
     background-color: #c5c5c5;
 }
-.inventory_table >table:nth-last-child(even) {
-    background-color: green;
+tr:nth-last-child(even) {
+    background-color: #d5d5d5;
 }
 
 tr:hover {
