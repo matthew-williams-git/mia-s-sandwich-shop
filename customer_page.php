@@ -53,6 +53,12 @@
                 <td>freddielane@strode-digital.uk</td>
                 <td>01234567893</td>
             </tr>
+            <tr>
+                <td>Jake Stuckey</td>
+                <td>Strode-digital</td>
+                <td>jake@strode-digital.uk</td>
+                <td>01234657894</td>
+            </tr>
         </table>
     </div>
 </body>
