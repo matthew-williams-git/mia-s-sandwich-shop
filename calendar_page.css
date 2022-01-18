@@ -8,7 +8,7 @@
 }
 
 .calendar-main {
-  width: 1000px;
+  width: 1200px;
   float: left;
   margin-left: 19px;
   margin-top: 18px;
@@ -16,7 +16,6 @@
 
 .current-events {
   float: bottom;
-  float: left;
   margin-left: 20px;
   margin-bottom: 18px
 }
@@ -35,7 +34,7 @@ body {font-family: Arial;}
 /* Month header */
 .month {
   padding: 70px 25px;
-  width: 90%;
+  width: 95%;
   background: #999999;
   text-align: center;
 }
