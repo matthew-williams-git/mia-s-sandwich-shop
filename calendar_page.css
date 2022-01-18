@@ -3,7 +3,7 @@
 
 .add-calendar {
   float: right;
-  margin-right: 100px;
+  margin-right: 200px;
   margin-top: 18px;
 }
 
@@ -15,9 +15,10 @@
 }
 
 .current-events {
+  float: bottom;
   float: left;
   margin-left: 20px;
-  margin-top: 18px
+  margin-bottom: 18px
 }
 
 
@@ -34,7 +35,7 @@ body {font-family: Arial;}
 /* Month header */
 .month {
   padding: 70px 25px;
-  width: 100%;
+  width: 90%;
   background: #999999;
   text-align: center;
 }
@@ -47,7 +48,7 @@ body {font-family: Arial;}
 
 .month ul li {
   color: #000000;
-  font-size: 20px;
+  font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 3px;
 }
