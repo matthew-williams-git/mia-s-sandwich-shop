@@ -45,7 +45,7 @@
         var text_1 = document.getElementById("rg_clb");
         var label_1 = document.getElementById("rg_clb_l");
         var text_2 = document.getElementById("by_clb");
-        var label_2 = doocument.getElementById("by_clb_l");
+        var label_2 = document.getElementById("by_clb_l");
         if (checkBox.checked == true){
             text_1.style.display = "block";
             label_1.style.display = "block";
