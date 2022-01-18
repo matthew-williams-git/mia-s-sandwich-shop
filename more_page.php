@@ -28,20 +28,34 @@
         </label>
         <p>On</p>
         
-        <div class="color_blind_modes">
-            <label for="rg_clb" id="rg_clb">Red / Green</label>
+        <div class="rg_color_blind">
+            <label for="rg_clb" id="rg_clb" style="display:none;">Red / Green</label>
             <input type="checkbox" id="rg_clb" style="display:none;">
+        </div>
+        
+        <div class="by_color_blind">
+            <label for="by_clb" id="by_clb_1" style="display:none;">Blue / Yellow</label>
+            <input type="checkbox" id="by_clb" style="display:none;">
         </div>
         
         <!-- make the checkboxes appear when toggle flipped -->
         <script>
         function myFunction() {
         var checkBox = document.getElementById("color_blind_toggle");
-        var text = document.getElementById("rg_clb");
+        var text_1 = document.getElementById("rg_clb");
+        var label_1 = document.getElementById("rg_clb_l");
+        var text_2 = document.getElementById("by_clb");
+        var label_2 = doocument.getElementById("by_clb_l");
         if (checkBox.checked == true){
-            text.style.display = "block";
+            text_1.style.display = "block";
+            label_1.style.display = "block";
+            text_2.style.display = "block";
+            label_2.style.display = "block";
         } else {
-            text.style.display = "none";
+            text_1.style.display = "none";
+            label_1.style.display = "none";
+            text_2.style.display = "none";
+            label_2.style.display = "none";
             }
         }
         </script>
