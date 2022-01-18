@@ -47,14 +47,6 @@ tr {
     border-bottom: 1px solid #404040;
 }
 
-td:nth-child(odd) {
-    background-color: #cccccc;
-}
-
-td:nth-child(even) {
-    background-color: #d7d5d5;
-}
-
 .outbound_invoices table {
     margin-left: 172px;
 }
@@ -71,6 +63,16 @@ td:nth-child(even) {
     padding: 0px;
 }
 
-td:hover, tr:hover {
+tr:nth-child(odd) {
+    background-color: #c4c4c4;
+}
+tr:nth-child(even) {
+    background-color: #e1e1e1;
+}
+td {
+    padding: 10px;
+}
+tr:hover {
     background-color: #404040;
+    color: #999999;
 }
