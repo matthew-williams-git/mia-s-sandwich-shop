@@ -29,7 +29,7 @@
         <p>On</p>
         
         <div class="color_blind_modes">
-            <label for="rg_clb">Red / Green</label>
+            <label for="rg_clb" id="rg_clb">Red / Green</label>
             <input type="checkbox" id="rg_clb" style="display:none;">
         </div>
         
