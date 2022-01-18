@@ -26,4 +26,33 @@
             <p>Add Customer</p>
         </div>
     </a>
+
+    <div class="customer_table">
+        <table>
+            <tr> <!-- table headings -->
+                <th>Contact name</th>
+                <th>Business name</th>
+                <th>Email</th>
+                <th>Phone</th>
+            </tr>
+            <tr> <!-- first row of the table -->
+                <td>Nick Bosley</td>
+                <td>Strode-digital</td>
+                <td>nick@strode-digital.uk</td>
+                <td>01234567891</td>
+            </tr>
+            <tr> <!-- second row of table -->
+                <td>Matt Wills</td>
+                <td>Strode-digital</td>
+                <td>matt@strode-digital.uk</td>
+                <td>01234567892</td>
+            </tr>
+            <tr> <!-- third row in table -->
+                <td>Freddie Lane</td>
+                <td>Strode-digital</td>
+                <td>freddielane@strode-digital.uk</td>
+                <td>01234567893</td>
+            </tr>
+        </table>
+    </div>
 </body>
