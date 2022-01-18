@@ -53,15 +53,15 @@
 
         <div class="inventory_table">
             <table>
-                <tr>
-                    <th>     </th>
-                    <th style="width: 100px;">Name</th>
+                <tbody><tr>
+                    <th style="width: 50px;">     </th>
+                    <th style="width: 250px;">Name</th>
                     <th style="width: 600px">Description</th>
-                    <th style="width: 50px;">Cost</th>
-                    <th style="width: 50px;">Retail</th>
-                    <th style="width: 75px;">Quantity</th>
+                    <th style="width: 100px;">Cost</th>
+                    <th style="width: 100px;">Retail</th>
+                    <th style="width: 100;">Quantity</th>
                     <th style="width: 100px;">Catagory</th>
-                    <th>     </th>
+                    <th style="width: 50px;">     </th>
                 </tr>
                 <tr>
                     <td>     </td>
@@ -73,7 +73,7 @@
                     <td>Bread</td>
                     <td>     </td>
                 </tr>
-            </table>
+            </tbody></table>
         </div>
         
     </div>

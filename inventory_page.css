@@ -34,9 +34,33 @@
     margin-top: 100px;
 }
 
+/* universal formatting for all of the buttons */
+.filter_btns .all_btn, .cold_meat_btn, .veg_btn, .bread_btn, .souce_btn, .other_btn {
+    float: left;
+    margin: 5px 25px;
+    padding: 5px 25px;
+}
+
+.main_content {
+    float: left;
+    margin-left: 100px;
+}
+
 .inventory_table {
     width: 1500px;
     height: 600px;
     background-color: #d6d6d6;
     float: left;
+}
+
+.inventory_table >table:nth-last-child(odd) {
+    background-color: #c5c5c5;
+}
+.inventory_table >table:nth-last-child(even) {
+    background-color: green;
+}
+
+tr:hover {
+    background-color: #404040;
+    color: #e1e1e1;
 }
