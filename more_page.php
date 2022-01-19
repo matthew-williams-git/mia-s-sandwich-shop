@@ -20,13 +20,15 @@
     
     <!-- colourblind menu -->
     <div class="colorblind_menu">
-        <h3>Colourblind mode</h3><br>
-        <p>Off</p>
-        <label class="switch">
-            <input type="checkbox" id="color_blind_toggle" onclick="myFunction()">
-            <span class="slider"></span>
-        </label>
-        <p>On</p>
+        <div class="toggle_group">
+            <h3>Colourblind mode</h3><br>
+            <p>Off</p>
+            <label class="switch">
+                <input type="checkbox" id="color_blind_toggle" onclick="myFunction()">
+                <span class="slider"></span>
+            </label>
+            <p>On</p>
+        </div>
         
         <div class="rg_color_blind">
             <label for="rg_clb" id="rg_clb_l" style="display:none;">Red / Green</label>

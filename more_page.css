@@ -1,0 +1,27 @@
+.page_title {
+    margin: 5px;
+    float: left;
+}
+
+.colorblind_menu {
+    float: left;
+    margin-top: 50px;
+}
+
+.toggle_group {
+    float: left;
+    height: 100px;
+}
+.toggle_group label {
+    float: left;
+}
+
+.rg_color_blind {
+    float: left;
+    height: 45px;
+}
+
+.by_color_blind {
+    float: left;
+    height: 45px;
+}
