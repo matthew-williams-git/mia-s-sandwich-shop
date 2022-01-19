@@ -17,7 +17,7 @@
         <h1>Inventory</h1>
     </div>
 
-    <a href="invoice_page2.php">
+    <a href="#working">
         <div class="add_item_btn">
             <img src="title_bar_images/Plus Icon.png">
             <p>Add item</p>
