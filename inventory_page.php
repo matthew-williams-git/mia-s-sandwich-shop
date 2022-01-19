@@ -30,25 +30,37 @@
     </div>
 
     <div class="main_content">
-        <div class="filter_btns">
-            <div class="all_btn">
-                <p>All</p>
-            </div>
-            <div class="cold_meat_btn">
-                <p>Cold Meats</p>
-            </div>
-            <div class="veg_btn">
-                <p>Vegatables</p>
-            </div>
-            <div class="bread_btn">
-                <p>Bread</p>
-            </div>
-            <div class="souce_btn">
-                <p>Sauces</p>
-            </div>
-            <div class="other_btn">
-                <p>Other</p>
-            </div>
+        <div class="#filter_btns">
+            <a href="#all">
+                <div class="all_btn">
+                    <p>All</p>
+                </div>
+            </a>
+            <a href="#cold meat">
+                <div class="cold_meat_btn">
+                    <p>Cold Meats</p>
+                </div>
+            </a>
+            <a href="#vegitables">
+                <div class="veg_btn">
+                    <p>Vegatables</p>
+                </div>
+            </a>
+            <a href="#bread">
+                <div class="bread_btn">
+                    <p>Bread</p>
+                </div>
+            </a>
+            <a href="#source">
+                <div class="souce_btn">
+                    <p>Sauces</p>
+                </div>
+            </a>
+            <a href="#other">
+                <div class="other_btn">
+                    <p>Other</p>
+                </div>
+            </a>
         </div>
 
         <div class="inventory_table">

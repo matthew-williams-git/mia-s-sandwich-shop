@@ -40,16 +40,34 @@
     margin: 5px 25px;
     padding: 5px 25px;
 }
+.all_btn:hover {
+    background-color: #c5c5c5;
+}
+.cold_meat_btn:hover {
+    background-color: #c5c5c5;
+}
+.veg_btn:hover {
+    background-color: #c5c5c5;
+}
+.bread_btn:hover {
+    background-color: #c5c5c5;
+}
+.souce_btn:hover {
+    background-color: #c5c5c5;
+}
+.other_btn:hover {
+    background-color: #c5c5c5;
+}
 
 .main_content {
     float: left;
     margin-left: 100px;
+    background-color: #d6d6d6;
 }
 
 .inventory_table {
     width: 1500px;
     height: 600px;
-    background-color: #d6d6d6;
     float: left;
 }
 
