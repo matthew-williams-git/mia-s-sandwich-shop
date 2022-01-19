@@ -12,3 +12,8 @@
         }
     </style>
 </head>
+<body>
+    <div class="admin-interface">
+        <h1 class="title">Admin Interface</h1>
+    </div>
+</body>
