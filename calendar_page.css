@@ -5,7 +5,7 @@
   width: 500px;
   float: right;
   margin-right: 100px;
-  margin-top: 18px;
+  margin-top: 10px;
 }
 
 .calendar-main {
@@ -16,10 +16,9 @@
 }
 
 .current-events {
-  width: 550px;
-  float: bottom;
-  margin-left: 50px;
-  margin-top: 25px
+  width: 450px;
+  float: left;
+  margin-left: 18px;
 }
 
 
@@ -182,7 +181,7 @@ body {font-family: Arial;}
   font-family: Arial;
   font-style: normal;
   font-weight: 300;
-  font-size: 24px;
+  font-size: 28px;
   line-height: 28px;
   text-align: left;
 }
