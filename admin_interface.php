@@ -20,14 +20,14 @@
             <button class="activity button-default">Activity</button>
         </div>
         <div class="button-selection">
-            <button class=" button-default">Business Analytics</button>
-            <button class=" button-default">Product Stock</button>
-            <button class=" button-default">Database Management</button>
-            <button class=" button-default">Delivery Ordering</button>
-            <button class=" button-default">User Account Management</button>
-            <button class=" button-default">Profit Tracking</button>
-            <button class=" button-default">Admin Activity</button>
-            <button class=" button-default">Log Out</button>
+            <button class=" button-default">Business Analytics</button><br>
+            <button class=" button-default">Product Stock</button><br>
+            <button class=" button-default">Database Management</button><br>
+            <button class=" button-default">Delivery Ordering</button><br>
+            <button class=" button-default">User Account Management</button><br>
+            <button class=" button-default">Profit Tracking</button><br>
+            <button class=" button-default">Admin Activity</button><br>
+            <button class=" button-default">Log Out</button><br>
         </div>
     </div>
 </body>
