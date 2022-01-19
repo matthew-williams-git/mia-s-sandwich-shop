@@ -16,11 +16,18 @@
     <div class="admin-interface">
         <h1 class="title">Admin Interface</h1>
         <div class="user-info">
-            <button class="user-active">User</button>
-            <button class="activity">Activity</button>
+            <button class="user-active button-default">User</button>
+            <button class="activity button-default">Activity</button>
         </div>
         <div class="button-selection">
-
+            <button class=" button-default">Business Analytics</button>
+            <button class=" button-default">Product Stock</button>
+            <button class=" button-default">Database Management</button>
+            <button class=" button-default">Delivery Ordering</button>
+            <button class=" button-default">User Account Management</button>
+            <button class=" button-default">Profit Tracking</button>
+            <button class=" button-default">Admin Activity</button>
+            <button class=" button-default">Log Out</button>
         </div>
     </div>
 </body>
