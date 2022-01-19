@@ -29,12 +29,12 @@
         <p>On</p>
         
         <div class="rg_color_blind">
-            <label for="rg_clb" id="rg_clb" style="display:none;">Red / Green</label>
+            <label for="rg_clb" id="rg_clb_l" style="display:none;">Red / Green</label>
             <input type="checkbox" id="rg_clb" style="display:none;">
         </div>
         
         <div class="by_color_blind">
-            <label for="by_clb" id="by_clb_1" style="display:none;">Blue / Yellow</label>
+            <label for="by_clb" id="by_clb_l" style="display:none;">Blue / Yellow</label>
             <input type="checkbox" id="by_clb" style="display:none;">
         </div>
         
