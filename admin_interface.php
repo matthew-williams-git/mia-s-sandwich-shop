@@ -19,6 +19,7 @@
             <button class="top-btn button-default">User</button>
             <button class="top-btn button-default">Activity</button>
         </div>
+        <br>
         <div class="interface">
             <button class="btn-sel button-default">Business Analytics</button>
             <button class="btn-sel button-default">Product Stock</button>
