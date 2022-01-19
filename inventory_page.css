@@ -39,9 +39,10 @@
     float: left;
     margin: 5px 25px;
     padding: 5px 25px;
+    background-color: aqua;
 }
 .all_btn:hover {
-    background-color: #c5c5c5;
+    background-color: #green;
 }
 .cold_meat_btn:hover {
     background-color: #c5c5c5;
