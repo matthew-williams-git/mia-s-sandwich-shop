@@ -19,6 +19,7 @@
     width: 94%;
     border-radius: 4px;
     background-color: white;
+    border: 8px;
 }
 
 .button-default{
@@ -39,4 +40,5 @@
 
 .btn-sel{
     width: 100%;
+    border-bottom: 8px;
 }
