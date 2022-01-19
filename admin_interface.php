@@ -15,5 +15,12 @@
 <body>
     <div class="admin-interface">
         <h1 class="title">Admin Interface</h1>
+        <div class="user-info">
+            <button class="user-active">User</button>
+            <button class="activity">Activity</button>
+        </div>
+        <div class="button-selection">
+
+        </div>
     </div>
 </body>
