@@ -77,7 +77,7 @@
             <h3>Contrast setting</h3>
             <p>Default</p>
             <label class="switch" style="float:left;margin-top:25px">
-                <input type="checkbox" id="light_dark_slider" onclick="lightdarkFunction()">
+                <input type="checkbox" id="light_dark_slider"> 
                 <span class="slider"></span>
             </label>
             <p>Super high</p>
