@@ -14,10 +14,10 @@
     text-shadow: 0px 0px 5px grey;
 }
 
-.user-info{
+.interface{
     padding: 12px;
-    width: 96%;
-    height: 54px;
+    width: 94%;
+    border-radius: 4px;
     background-color: white;
 }
 
@@ -25,13 +25,18 @@
     border: 5px;
     border-radius: 4px;
     text-decoration: none;
-    height: 16px;
+    height: 32px;
+    background-color: grey;
 }
 
-.user-active{
+.button-default:hover{
+    background-color: darkgrey;
+}
+
+.top-btn{
     width: 49%;
 }
 
-.activity{
-    width: 49%;
+.btn-sel{
+    width: 100%;
 }
