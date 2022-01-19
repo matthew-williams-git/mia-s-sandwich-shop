@@ -16,19 +16,19 @@
     <div class="admin-interface">
         <h1 class="title">Admin Interface</h1>
         <div class="interface">
-            <button class="top-btn button-default">User</button>
-            <button class="top-btn button-default">Activity</button>
+            <a href="https://youtu.be/ub82Xb1C8os" class="top-btn button-default">User</a>
+            <a href="https://youtu.be/ub82Xb1C8os" class="top-btn button-default">Activity</a>
         </div>
         <br>
         <div class="interface">
-            <button class="btn-sel button-default">Business Analytics</button>
-            <button class="btn-sel button-default">Product Stock</button>
-            <button class="btn-sel button-default">Database Management</button>
-            <button class="btn-sel button-default">Delivery Ordering</button>
-            <button class="btn-sel button-default">User Account Management</button>
-            <button class="btn-sel button-default">Profit Tracking</button>
-            <button class="btn-sel button-default">Admin Activity</button>
-            <button class="btn-sel button-default">Log Out</button>
+            <a href="https://youtu.be/ub82Xb1C8os" class="btn-sel button-default">Business Analytics</a>
+            <a href="https://youtu.be/ub82Xb1C8os" class="btn-sel button-default">Product Stock</a>
+            <a href="https://youtu.be/ub82Xb1C8os" class="btn-sel button-default">Database Management</a>
+            <a href="https://youtu.be/ub82Xb1C8os" class="btn-sel button-default">Delivery Ordering</a>
+            <a href="https://youtu.be/ub82Xb1C8os" class="btn-sel button-default">User Account Management</a>
+            <a href="https://youtu.be/ub82Xb1C8os" class="btn-sel button-default">Profit Tracking</a>
+            <a href="https://youtu.be/ub82Xb1C8os" class="btn-sel button-default">Admin Activity</a>
+            <a href="https://youtu.be/ub82Xb1C8os" class="btn-sel button-default">Log Out</a>
         </div>
     </div>
 </body>
