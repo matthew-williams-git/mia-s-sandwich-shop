@@ -5,7 +5,7 @@
 
 .colorblind_menu {
     float: left;
-    margin: 100px auto 0px;
+    margin: 100px 200px 0px;
 }
 
 .toggle_group {
@@ -37,9 +37,20 @@
 
 #contrast_class {
     display: none;
+    float: left;
+    margin: 0px 50px;
+}
+#contrast_class > p:nth-child(2), #contrast_class > p:nth-child(4) {
+    float: left;
+    padding: 17px 20px;
 }
 
 .color_theme {
     float: left;
-    margin: 20px auto 0px;
+    margin: 20px 385.862px 0px;
+}
+
+label.switch:nth-child(3) {
+    float: left;
+    margin-top: 25px;
 }
