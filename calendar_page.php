@@ -99,7 +99,7 @@
         </ul>
     </div>
     
-    <div class="current.event">
+    <div class="current-events">
         <h1>Current Events</h1>
         
         <p>See Sharon: 13:00-13:30</p><br>
