@@ -76,7 +76,7 @@
         <div class="contrast_toggle" id="contrast_class">
             <h3>Contrast setting</h3>
             <p>Default</p>
-            <label class="switch">
+            <label class="switch" style="float:left;margin-top:25px">
                 <input type="checkbox" id="light_dark_slider" onclick="lightdarkFunction()">
                 <span class="slider"></span>
             </label>
