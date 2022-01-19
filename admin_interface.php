@@ -15,11 +15,11 @@
 <body>
     <div class="admin-interface">
         <h1 class="title">Admin Interface</h1>
-        <div class="user-info">
+        <div class="interface">
             <button class="top-btn button-default">User</button>
             <button class="top-btn button-default">Activity</button>
         </div>
-        <div class="button-interface">
+        <div class="interface">
             <button class="btn-sel button-default">Business Analytics</button><br><br>
             <button class="btn-sel button-default">Product Stock</button><br><br>
             <button class="btn-sel button-default">Database Management</button><br><br>
