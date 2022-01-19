@@ -1,6 +1,6 @@
 .admin-interface{
     margin: auto;
-    margin-top: 5%;
+    margin-top: 10%;
     width: 20%;
     border: 5px;
     border-radius: 4px;
@@ -23,10 +23,16 @@
     background-color: white;
 }
 
-.user-active{
+.button-default{
+    border: none;
+    text-decoration: none;
+    height: 16px;
+}
 
+.user-active{
+    width: 49%;
 }
 
 .activity{
-
+    width: 49%;
 }
