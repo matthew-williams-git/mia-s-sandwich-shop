@@ -24,7 +24,7 @@
             <h3>Colourblind mode</h3><br>
             <p>Off</p>
             <label class="switch">
-                <input type="checkbox" id="color_blind_toggle" onclick="myFunction()">
+                <input type="checkbox" id="color_blind_toggle" onclick="colorFunction()">
                 <span class="slider"></span>
             </label>
             <p>On</p>
@@ -42,7 +42,7 @@
         
         <!-- make the checkboxes appear when toggle flipped -->
         <script>
-        function myFunction() {
+        function colorFunction() {
         var checkBox = document.getElementById("color_blind_toggle");
         var text_1 = document.getElementById("rg_clb");
         var label_1 = document.getElementById("rg_clb_l");
@@ -62,4 +62,39 @@
         }
         </script>
     </div>   
+    <div class="color_theme">
+        <div class="toggle_group">
+            <h3>Theme</h3><br>
+            <p>Default</p>
+            <label class="switch">
+                <input type="checkbox" id="theme_slider" onclick="themeFunction()">
+                <span class="slider"></span>
+            </label>
+            <p>Dark</p>
+        </div>
+
+        <div class="contrast_toggle" id="contrast_class">
+            <h3>Contrast setting</h3>
+            <p>Default</p>
+            <label class="switch">
+                <input type="checkbox" id="light_dark_slider" onclick="lightdarkFunction()">
+                <span class="slider"></span>
+            </label>
+            <p>Super high</p>
+        </div>
+
+        <script>
+            function themeFunction() {
+                var trigger = document.getElementById("theme_slider");
+                var slider = document.getElementById("contrast_class");
+
+                if (trigger.checked == true){
+                    slider.style.display = "block";
+                }
+                else {
+                    slider.style.display = "none";
+                }
+            }
+        </script>
+    </div>
 </body>
